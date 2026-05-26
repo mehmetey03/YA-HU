@@ -35,13 +35,13 @@ https://provisioning.streamtheworld.com/pls/METRO_FMAAC.m3u
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Türkiye_8" tvg-name="Radio 5 Turkey" tvg-logo="https://radio5.com.tr/wp-content/plugins/under-construction-page/themes/images/favicon.png" group-title="Türkiye",Radio 5 Turkey
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-https://radyo.yayin.com.tr/tunein/radiotrc.asx
-
-#EXTINF:-1 tvg-id="Türkiye_9" tvg-name="NTV Radyo" tvg-logo="http://www.ntvradyo.com.tr/favicon.ico" group-title="Türkiye",NTV Radyo
+#EXTINF:-1 tvg-id="Türkiye_8" tvg-name="NTV Radyo" tvg-logo="http://www.ntvradyo.com.tr/favicon.ico" group-title="Türkiye",NTV Radyo
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://46.20.3.207/listen.m3u
+
+#EXTINF:-1 tvg-id="Türkiye_9" tvg-name="Radio 5 Turkey" tvg-logo="https://radio5.com.tr/wp-content/plugins/under-construction-page/themes/images/favicon.png" group-title="Türkiye",Radio 5 Turkey
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+https://radyo.yayin.com.tr/tunein/radiotrc.asx
 
 #EXTINF:-1 tvg-id="Türkiye_10" tvg-name="KRAL TÜRK FM" tvg-logo="" group-title="Türkiye",KRAL TÜRK FM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1138,13 +1138,13 @@ https://0n-80s.radionetz.de/0n-80s.mp3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://bestofrockfm.stream.vip/altrock/mp3-256/bestofrock.fm/
 
-#EXTINF:-1 tvg-id="Germany_26" tvg-name="B5 aktuell" tvg-logo="https://www.br.de/favicon.ico" group-title="Germany",B5 aktuell
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://streams.br.de/b5aktuell_2.m3u
-
-#EXTINF:-1 tvg-id="Germany_27" tvg-name="Country 108" tvg-logo="http://www.country108.com/assets/images/logo.png" group-title="Germany",Country 108
+#EXTINF:-1 tvg-id="Germany_26" tvg-name="Country 108" tvg-logo="http://www.country108.com/assets/images/logo.png" group-title="Germany",Country 108
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://tuner.country108.com/;
+
+#EXTINF:-1 tvg-id="Germany_27" tvg-name="B5 aktuell" tvg-logo="https://www.br.de/favicon.ico" group-title="Germany",B5 aktuell
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://streams.br.de/b5aktuell_2.m3u
 
 #EXTINF:-1 tvg-id="Germany_28" tvg-name="Reggae Radio Rastamusic.com" tvg-logo="https://static.wixstatic.com/media/a09246_33fe4aef6e5f4f17b605a8d8645ff015%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/a09246_33fe4aef6e5f4f17b605a8d8645ff015%7emv2.png" group-title="Germany",Reggae Radio Rastamusic.com
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -3096,13 +3096,13 @@ https://dfm-disc90.hostingradio.ru/disc9096.aacp
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274
 
-#EXTINF:-1 tvg-id="The Russian Federation_5" tvg-name="Вести ФМ (Vesti FM)" tvg-logo="" group-title="The Russian Federation",Вести ФМ (Vesti FM)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
-
-#EXTINF:-1 tvg-id="The Russian Federation_6" tvg-name="Радио Русские Песни" tvg-logo="" group-title="The Russian Federation",Радио Русские Песни
+#EXTINF:-1 tvg-id="The Russian Federation_5" tvg-name="Радио Русские Песни" tvg-logo="" group-title="The Russian Federation",Радио Русские Песни
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://listen.rusongs.ru/ru-mp3-128
+
+#EXTINF:-1 tvg-id="The Russian Federation_6" tvg-name="Вести ФМ (Vesti FM)" tvg-logo="" group-title="The Russian Federation",Вести ФМ (Vesti FM)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
 
 #EXTINF:-1 tvg-id="The Russian Federation_7" tvg-name="Дискотека СССР" tvg-logo="" group-title="The Russian Federation",Дискотека СССР
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -4144,13 +4144,13 @@ http://icecast.luxnet.ua/lux
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://stream.brokenbeats.net/tune
 
-#EXTINF:-1 tvg-id="Ukraine_25" tvg-name="Закарпаття FM" tvg-logo="http://zakarpattyafm.com.ua/wp-content/themes/zakfm/ico.png" group-title="Ukraine",Закарпаття FM
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://195.234.148.51:8000/;
-
-#EXTINF:-1 tvg-id="Ukraine_26" tvg-name="Kiss FM Digital HD" tvg-logo="" group-title="Ukraine",Kiss FM Digital HD
+#EXTINF:-1 tvg-id="Ukraine_25" tvg-name="Kiss FM Digital HD" tvg-logo="" group-title="Ukraine",Kiss FM Digital HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://online.kissfm.ua/KissFM_Digital_HD
+
+#EXTINF:-1 tvg-id="Ukraine_26" tvg-name="Закарпаття FM" tvg-logo="http://zakarpattyafm.com.ua/wp-content/themes/zakfm/ico.png" group-title="Ukraine",Закарпаття FM
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://195.234.148.51:8000/;
 
 #EXTINF:-1 tvg-id="Ukraine_27" tvg-name="Lviv Wave Radio" tvg-logo="" group-title="Ukraine",Lviv Wave Radio
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
