@@ -1130,13 +1130,13 @@ https://0n-70s.radionetz.de/0n-70s.mp3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://stream.instrumentalhits.de:8060/
 
-#EXTINF:-1 tvg-id="Germany_24" tvg-name="Best Of Rock.FM Alternative Rock" tvg-logo="https://www.best-of-rock.fm/favicons/apple-touch-icon.png" group-title="Germany",Best Of Rock.FM Alternative Rock
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-https://bestofrockfm.stream.vip/altrock/mp3-256/bestofrock.fm/
-
-#EXTINF:-1 tvg-id="Germany_25" tvg-name="- 0 N - 80s on Radio" tvg-logo="https://www.0nradio.com/logos/0n-80s_600x600.jpg" group-title="Germany",- 0 N - 80s on Radio
+#EXTINF:-1 tvg-id="Germany_24" tvg-name="- 0 N - 80s on Radio" tvg-logo="https://www.0nradio.com/logos/0n-80s_600x600.jpg" group-title="Germany",- 0 N - 80s on Radio
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://0n-80s.radionetz.de/0n-80s.mp3
+
+#EXTINF:-1 tvg-id="Germany_25" tvg-name="Best Of Rock.FM Alternative Rock" tvg-logo="https://www.best-of-rock.fm/favicons/apple-touch-icon.png" group-title="Germany",Best Of Rock.FM Alternative Rock
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+https://bestofrockfm.stream.vip/altrock/mp3-256/bestofrock.fm/
 
 #EXTINF:-1 tvg-id="Germany_26" tvg-name="Country 108" tvg-logo="http://www.country108.com/assets/images/logo.png" group-title="Germany",Country 108
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1424,13 +1424,13 @@ http://mr-stream.mediaconnect.hu/4737/mr2.aac
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://oxygenmusic.hu:8443/oxygenthe80shits
 
-#EXTINF:-1 tvg-id="Hungary_7" tvg-name="MegaDance Rádió" tvg-logo="" group-title="Hungary",MegaDance Rádió
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://megadanceradio.hopto.org:8000/livemega.mp3
-
-#EXTINF:-1 tvg-id="Hungary_8" tvg-name="Retro Rádió" tvg-logo="https://retroradio.hu/wp-content/themes/retroradio/assets/dist/img/favicon/android-icon-192x192.png" group-title="Hungary",Retro Rádió
+#EXTINF:-1 tvg-id="Hungary_7" tvg-name="Retro Rádió" tvg-logo="https://retroradio.hu/wp-content/themes/retroradio/assets/dist/img/favicon/android-icon-192x192.png" group-title="Hungary",Retro Rádió
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://icast.connectmedia.hu/5001/live.mp3
+
+#EXTINF:-1 tvg-id="Hungary_8" tvg-name="MegaDance Rádió" tvg-logo="" group-title="Hungary",MegaDance Rádió
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://megadanceradio.hopto.org:8000/livemega.mp3
 
 #EXTINF:-1 tvg-id="Hungary_9" tvg-name="Sláger FM" tvg-logo="https://i.imgur.com/rku29tm.png" group-title="Hungary",Sláger FM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -3514,13 +3514,13 @@ http://media-ice.musicradio.com/LBCLondonMP3Low
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://1mix.co.uk/trance/listenh.m3u
 
-#EXTINF:-1 tvg-id="The United Kingdom Of Great Britain And Northern Ireland_40" tvg-name="Different Drumz DnB Radio" tvg-logo="http://www.differentdrumz.co.uk/wp-content/uploads/fbrfg/apple-touch-icon-114x114.png" group-title="The United Kingdom Of Great Britain And Northern Ireland",Different Drumz DnB Radio
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://andromeda.shoutca.st:8031/
-
-#EXTINF:-1 tvg-id="The United Kingdom Of Great Britain And Northern Ireland_41" tvg-name="BBC Radio 4 (128k)" tvg-logo="https://cdn-radiotime-logos.tunein.com/s25419q.png" group-title="The United Kingdom Of Great Britain And Northern Ireland",BBC Radio 4 (128k)
+#EXTINF:-1 tvg-id="The United Kingdom Of Great Britain And Northern Ireland_40" tvg-name="BBC Radio 4 (128k)" tvg-logo="https://cdn-radiotime-logos.tunein.com/s25419q.png" group-title="The United Kingdom Of Great Britain And Northern Ireland",BBC Radio 4 (128k)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-id="The United Kingdom Of Great Britain And Northern Ireland_41" tvg-name="Different Drumz DnB Radio" tvg-logo="http://www.differentdrumz.co.uk/wp-content/uploads/fbrfg/apple-touch-icon-114x114.png" group-title="The United Kingdom Of Great Britain And Northern Ireland",Different Drumz DnB Radio
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://andromeda.shoutca.st:8031/
 
 #EXTINF:-1 tvg-id="The United Kingdom Of Great Britain And Northern Ireland_42" tvg-name="Capital UK" tvg-logo="https://cdn-profiles.tunein.com/s241396/images/logoq.jpg" group-title="The United Kingdom Of Great Britain And Northern Ireland",Capital UK
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
