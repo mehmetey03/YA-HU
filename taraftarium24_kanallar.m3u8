@@ -1,12 +1,6 @@
 #EXTM3U
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXT-X-ORIGIN:https://taraftarium24.xyz
-#EXTINF:-1 tvg-name="Barcelona GP" group-title="Diğer Kanallar",Barcelona GP
-https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-name="Barcelona GP (Yedek)" group-title="Diğer Kanallar",Barcelona GP (Yedek)
-https://andro.2385437.xyz/checklist/androstreamlivenba.m3u8
-#EXTINF:-1 tvg-name="R.Montgomery - B.Krejcikova" group-title="Maç Yayınları",R.Montgomery - B.Krejcikova
-https://andro.2385437.xyz/checklist/androstreamlivebsm2.m3u8
 #EXTINF:-1 tvg-name="Slovenya - Japonya" group-title="Maç Yayınları",Slovenya - Japonya
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-name="B.Shelton - T.Fritz" group-title="Maç Yayınları",B.Shelton - T.Fritz
@@ -71,162 +65,216 @@ https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
 #EXTINF:-1 tvg-name="Belçika - Misir" group-title="Maç Yayınları",Belçika - Misir
 https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
-#EXTINF:-1 tvg-name="Siem Reap (w) - NagaWorld FC (w)" group-title="Maç Yayınları",Siem Reap (w) - NagaWorld FC (w)
-https://andro.2385437.xyz/checklist/androstreamlivech38810651.m3u8
-#EXTINF:-1 tvg-name="Canberra Juventus - Cooma Tigers" group-title="Maç Yayınları",Canberra Juventus - Cooma Tigers
-https://andro.2385437.xyz/checklist/androstreamlivech38810865.m3u8
-#EXTINF:-1 tvg-name="ISPE FC U-20 - Yadanarbon FC U-20" group-title="Maç Yayınları",ISPE FC U-20 - Yadanarbon FC U-20
-https://andro.2385437.xyz/checklist/androstreamlivech38810903.m3u8
-#EXTINF:-1 tvg-name="Falcon U-20 - Myawady FC U-20" group-title="Maç Yayınları",Falcon U-20 - Myawady FC U-20
-https://andro.2385437.xyz/checklist/androstreamlivech38810963.m3u8
-#EXTINF:-1 tvg-name="CF Trival Valderas - CF La Nucia" group-title="Maç Yayınları",CF Trival Valderas - CF La Nucia
-https://andro.2385437.xyz/checklist/androstreamlivech38811339.m3u8
-#EXTINF:-1 tvg-name="FC Flora II - JK Tallinna Kalev" group-title="Maç Yayınları",FC Flora II - JK Tallinna Kalev
-https://andro.2385437.xyz/checklist/androstreamlivech38811223.m3u8
-#EXTINF:-1 tvg-name="Phoenix Johvi - JK Tammeka Tartu II" group-title="Maç Yayınları",Phoenix Johvi - JK Tammeka Tartu II
-https://andro.2385437.xyz/checklist/androstreamlivech38811245.m3u8
-#EXTINF:-1 tvg-name="MFA Zalgiris (w) - Transinvest (w)" group-title="Maç Yayınları",MFA Zalgiris (w) - Transinvest (w)
-https://andro.2385437.xyz/checklist/androstreamlivech38811767.m3u8
-#EXTINF:-1 tvg-name="Guijuelo - Tamaraceite" group-title="Maç Yayınları",Guijuelo - Tamaraceite
-https://andro.2385437.xyz/checklist/androstreamlivech38811873.m3u8
-#EXTINF:-1 tvg-name="Arenas de Armilla CD - SCR Pena Deportiva" group-title="Maç Yayınları",Arenas de Armilla CD - SCR Pena Deportiva
-https://andro.2385437.xyz/checklist/androstreamlivech38811835.m3u8
-#EXTINF:-1 tvg-name="Shanghai Port U-20 - Beijing Guoan U-20" group-title="Maç Yayınları",Shanghai Port U-20 - Beijing Guoan U-20
-https://andro.2385437.xyz/checklist/androstreamlivech38812145.m3u8
-#EXTINF:-1 tvg-name="Shandong Taishan U-20 - Henan U-20" group-title="Maç Yayınları",Shandong Taishan U-20 - Henan U-20
-https://andro.2385437.xyz/checklist/androstreamlivech38812149.m3u8
-#EXTINF:-1 tvg-name="Sveikata - Suduva II" group-title="Maç Yayınları",Sveikata - Suduva II
-https://andro.2385437.xyz/checklist/androstreamlivech38811803.m3u8
-#EXTINF:-1 tvg-name="Phoenix Johvi - Tammeka Tartu U21" group-title="Maç Yayınları",Phoenix Johvi - Tammeka Tartu U21
-https://andro.2385437.xyz/checklist/androstreamlivech19405456.m3u8
-#EXTINF:-1 tvg-name="Sibir-M - KDV II" group-title="Maç Yayınları",Sibir-M - KDV II
-https://andro.2385437.xyz/checklist/androstreamlivech19405713.m3u8
-#EXTINF:-1 tvg-name="St. Louis + - Fusion +" group-title="Maç Yayınları",St. Louis + - Fusion +
-https://andro.2385437.xyz/checklist/androstreamlivech19405870.m3u8
-#EXTINF:-1 tvg-name="Bayern (Amatörler) - Stuttgart (Amatörler)" group-title="Maç Yayınları",Bayern (Amatörler) - Stuttgart (Amatörler)
-https://andro.2385437.xyz/checklist/androstreamlivech19405833.m3u8
-#EXTINF:-1 tvg-name="MFA Zalgiris (Bayanlar) - Transinvest (Bayanlar)" group-title="Maç Yayınları",MFA Zalgiris (Bayanlar) - Transinvest (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech19405717.m3u8
-#EXTINF:-1 tvg-name="Diamantina - Freerona" group-title="Maç Yayınları",Diamantina - Freerona
-https://andro.2385437.xyz/checklist/androstreamlivech19405856.m3u8
-#EXTINF:-1 tvg-name="Akron Tolyatti II - FC Nosta Novotroitsk" group-title="Maç Yayınları",Akron Tolyatti II - FC Nosta Novotroitsk
-https://andro.2385437.xyz/checklist/androstreamlivech19405640.m3u8
-#EXTINF:-1 tvg-name="Berliner Dynamo (Amatörler) - Alemannia Aachen (Amatörler)" group-title="Maç Yayınları",Berliner Dynamo (Amatörler) - Alemannia Aachen (Amatörler)
-https://andro.2385437.xyz/checklist/androstreamlivech19405832.m3u8
-#EXTINF:-1 tvg-name="Abia Angels (Bayanlar) - Robo (Bayanlar)" group-title="Maç Yayınları",Abia Angels (Bayanlar) - Robo (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech19405789.m3u8
-#EXTINF:-1 tvg-name="Miracle (2x2) - Solaris (2x2)" group-title="Maç Yayınları",Miracle (2x2) - Solaris (2x2)
-https://andro.2385437.xyz/checklist/androstreamlivech19405840.m3u8
-#EXTINF:-1 tvg-name="Cosmos Khimki - Baltika Kaliningrad II" group-title="Maç Yayınları",Cosmos Khimki - Baltika Kaliningrad II
-https://andro.2385437.xyz/checklist/androstreamlivech19405636.m3u8
-#EXTINF:-1 tvg-name="MILITARY - LING" group-title="Maç Yayınları",MILITARY - LING
-https://andro.2385437.xyz/checklist/androstreamlivech19405893.m3u8
-#EXTINF:-1 tvg-name="Selangor Shah Alam (Bayanlar) - Red Eagles (Bayanlar)" group-title="Maç Yayınları",Selangor Shah Alam (Bayanlar) - Red Eagles (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech19405208.m3u8
-#EXTINF:-1 tvg-name="Nijmegen (Amatörler) - Roda (Amatörler)" group-title="Maç Yayınları",Nijmegen (Amatörler) - Roda (Amatörler)
-https://andro.2385437.xyz/checklist/androstreamlivech19405815.m3u8
-#EXTINF:-1 tvg-name="Hartford + - Loudoun +" group-title="Maç Yayınları",Hartford + - Loudoun +
-https://andro.2385437.xyz/checklist/androstreamlivech19405800.m3u8
-#EXTINF:-1 tvg-name="Rassvet Krasnoyarsk - Yenisey-M" group-title="Maç Yayınları",Rassvet Krasnoyarsk - Yenisey-M
-https://andro.2385437.xyz/checklist/androstreamlivech19405695.m3u8
-#EXTINF:-1 tvg-name="Sveikata Kybartai - FK Sūduva Marijampolė II" group-title="Maç Yayınları",Sveikata Kybartai - FK Sūduva Marijampolė II
-https://andro.2385437.xyz/checklist/androstreamlivech19405735.m3u8
-#EXTINF:-1 tvg-name="Siem Reap (Bayanlar) - Naga World (Bayanlar)" group-title="Maç Yayınları",Siem Reap (Bayanlar) - Naga World (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech19405159.m3u8
-#EXTINF:-1 tvg-name="Dynamo Barnaul - Krylia Sovetov II" group-title="Maç Yayınları",Dynamo Barnaul - Krylia Sovetov II
-https://andro.2385437.xyz/checklist/androstreamlivech19405646.m3u8
-#EXTINF:-1 tvg-name="Taoyuan Pilots - Fubon Braves" group-title="Maç Yayınları",Taoyuan Pilots - Fubon Braves
-https://andro.2385437.xyz/checklist/androstreamlivech38810857.m3u8
-#EXTINF:-1 tvg-name="ADU Soaring Falcons - DLSU Green Archers" group-title="Maç Yayınları",ADU Soaring Falcons - DLSU Green Archers
-https://andro.2385437.xyz/checklist/androstreamlivech38811097.m3u8
-#EXTINF:-1 tvg-name="New Zealand Bluefire Valkyries (w) - Akari Sparks (w)" group-title="Maç Yayınları",New Zealand Bluefire Valkyries (w) - Akari Sparks (w)
-https://andro.2385437.xyz/checklist/androstreamlivech38811699.m3u8
-#EXTINF:-1 tvg-name="Ayers Rock BK Gallarate U-19 - Pallacanestro Vado U-19" group-title="Maç Yayınları",Ayers Rock BK Gallarate U-19 - Pallacanestro Vado U-19
-https://andro.2385437.xyz/checklist/androstreamlivech38811771.m3u8
-#EXTINF:-1 tvg-name="Berezniki (Bayanlar) - Khimki (Bayanlar)" group-title="Maç Yayınları",Berezniki (Bayanlar) - Khimki (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech19405603.m3u8
-#EXTINF:-1 tvg-name="Egypt (TBL) - İspanya (TBL)" group-title="Maç Yayınları",Egypt (TBL) - İspanya (TBL)
-https://andro.2385437.xyz/checklist/androstreamlivech19405556.m3u8
-#EXTINF:-1 tvg-name="Gallarate U19 - Vado U19" group-title="Maç Yayınları",Gallarate U19 - Vado U19
-https://andro.2385437.xyz/checklist/androstreamlivech19405719.m3u8
-#EXTINF:-1 tvg-name="Lady Titans (Bayanlar) - Kenya Ports Authority (Bayanlar)" group-title="Maç Yayınları",Lady Titans (Bayanlar) - Kenya Ports Authority (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech19405723.m3u8
-#EXTINF:-1 tvg-name="Avustralya (TBL) - Germany (TBL)" group-title="Maç Yayınları",Avustralya (TBL) - Germany (TBL)
-https://andro.2385437.xyz/checklist/androstreamlivech19405561.m3u8
-#EXTINF:-1 tvg-name="Anapa - Ufa" group-title="Maç Yayınları",Anapa - Ufa
-https://andro.2385437.xyz/checklist/androstreamlivech19405579.m3u8
-#EXTINF:-1 tvg-name="Tula - Arkhangelsk" group-title="Maç Yayınları",Tula - Arkhangelsk
-https://andro.2385437.xyz/checklist/androstreamlivech19405680.m3u8
-#EXTINF:-1 tvg-name="Meteor - Infinity Hoop" group-title="Maç Yayınları",Meteor - Infinity Hoop
-https://andro.2385437.xyz/checklist/androstreamlivech19405613.m3u8
-#EXTINF:-1 tvg-name="ABD - Brezilya" group-title="Maç Yayınları",ABD - Brezilya
-https://andro.2385437.xyz/checklist/androstreamlivech19405037.m3u8
-#EXTINF:-1 tvg-name="GS Chlef (Bayanlar) - Olympique El Flaye (Bayanlar)" group-title="Maç Yayınları",GS Chlef (Bayanlar) - Olympique El Flaye (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech19405528.m3u8
-#EXTINF:-1 tvg-name="Slovenya - ABD" group-title="Maç Yayınları",Slovenya - ABD
-https://andro.2385437.xyz/checklist/androstreamlivech19405763.m3u8
-#EXTINF:-1 tvg-name="KDF (Bayanlar) - KCB (Bayanlar)" group-title="Maç Yayınları",KDF (Bayanlar) - KCB (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech19405590.m3u8
-#EXTINF:-1 tvg-name="Slovakya - İspanya" group-title="Maç Yayınları",Slovakya - İspanya
-https://andro.2385437.xyz/checklist/androstreamlivech19405764.m3u8
-#EXTINF:-1 tvg-name="Mozambik - Ukrayna" group-title="Maç Yayınları",Mozambik - Ukrayna
-https://andro.2385437.xyz/checklist/androstreamlivech19405774.m3u8
-#EXTINF:-1 tvg-name="Sırbistan (Bayanlar) - ABD (Bayanlar)" group-title="Maç Yayınları",Sırbistan (Bayanlar) - ABD (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech19405700.m3u8
-#EXTINF:-1 tvg-name="ABD (Bayanlar) - Japonya (Bayanlar)" group-title="Maç Yayınları",ABD (Bayanlar) - Japonya (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech19405825.m3u8
-#EXTINF:-1 tvg-name="İran - Küba" group-title="Maç Yayınları",İran - Küba
-https://andro.2385437.xyz/checklist/androstreamlivech19405627.m3u8
-#EXTINF:-1 tvg-name="Jennifer Ruggeri - Yelyzaveta Kotliar" group-title="Maç Yayınları",Jennifer Ruggeri - Yelyzaveta Kotliar
-https://andro.2385437.xyz/checklist/androstreamlivech38810373.m3u8
-#EXTINF:-1 tvg-name="Tatiana Pieri - Diletta Cherubini" group-title="Maç Yayınları",Tatiana Pieri - Diletta Cherubini
-https://andro.2385437.xyz/checklist/androstreamlivech38810377.m3u8
-#EXTINF:-1 tvg-name="Julia Avdeeva - Eva Vedder" group-title="Maç Yayınları",Julia Avdeeva - Eva Vedder
-https://andro.2385437.xyz/checklist/androstreamlivech38810901.m3u8
-#EXTINF:-1 tvg-name="Florian Broska - Michael Bassem Sobhy" group-title="Maç Yayınları",Florian Broska - Michael Bassem Sobhy
-https://andro.2385437.xyz/checklist/androstreamlivech38810867.m3u8
-#EXTINF:-1 tvg-name="Jonas Forejtek - Karol Filar" group-title="Maç Yayınları",Jonas Forejtek - Karol Filar
-https://andro.2385437.xyz/checklist/androstreamlivech38810969.m3u8
-#EXTINF:-1 tvg-name="Marko Topo - Ryan Seggerman" group-title="Maç Yayınları",Marko Topo - Ryan Seggerman
-https://andro.2385437.xyz/checklist/androstreamlivech38811253.m3u8
-#EXTINF:-1 tvg-name="Alexandra Irina Anghel - Kristina Shitikova" group-title="Maç Yayınları",Alexandra Irina Anghel - Kristina Shitikova
-https://andro.2385437.xyz/checklist/androstreamlivech38811311.m3u8
-#EXTINF:-1 tvg-name="Joao Domingues - Pablo Martinez Gomez" group-title="Maç Yayınları",Joao Domingues - Pablo Martinez Gomez
-https://andro.2385437.xyz/checklist/androstreamlivech38811337.m3u8
-#EXTINF:-1 tvg-name="Aliona Falei - Savannah Broadus" group-title="Maç Yayınları",Aliona Falei - Savannah Broadus
-https://andro.2385437.xyz/checklist/androstreamlivech38811373.m3u8
-#EXTINF:-1 tvg-name="Daniil Glinka/Stefanos Sakellaridis - Jan-Lennard Struff/Yannick Hanfmann" group-title="Maç Yayınları",Daniil Glinka/Stefanos Sakellaridis - Jan-Lennard Struff/Yannick Hanfmann
-https://andro.2385437.xyz/checklist/androstreamlivech38811525.m3u8
-#EXTINF:-1 tvg-name="Sergio Callejon Hernando - Lorenzo Bocchi" group-title="Maç Yayınları",Sergio Callejon Hernando - Lorenzo Bocchi
-https://andro.2385437.xyz/checklist/androstreamlivech38811329.m3u8
-#EXTINF:-1 tvg-name="Alexander Shevchenko - Taro Daniel" group-title="Maç Yayınları",Alexander Shevchenko - Taro Daniel
-https://andro.2385437.xyz/checklist/androstreamlivech38811275.m3u8
-#EXTINF:-1 tvg-name="Anna Blinkova - Anna Bondar" group-title="Maç Yayınları",Anna Blinkova - Anna Bondar
-https://andro.2385437.xyz/checklist/androstreamlivech38811645.m3u8
-#EXTINF:-1 tvg-name="Luca Castelnuovo - Fares Zakaria" group-title="Maç Yayınları",Luca Castelnuovo - Fares Zakaria
-https://andro.2385437.xyz/checklist/androstreamlivech38811709.m3u8
-#EXTINF:-1 tvg-name="Ammar Elamin - Andres Andrade" group-title="Maç Yayınları",Ammar Elamin - Andres Andrade
-https://andro.2385437.xyz/checklist/androstreamlivech38811855.m3u8
-#EXTINF:-1 tvg-name="Niels Visker - Dan Added" group-title="Maç Yayınları",Niels Visker - Dan Added
-https://andro.2385437.xyz/checklist/androstreamlivech38811875.m3u8
-#EXTINF:-1 tvg-name="James Watt - Alastair Gray" group-title="Maç Yayınları",James Watt - Alastair Gray
-https://andro.2385437.xyz/checklist/androstreamlivech38811591.m3u8
-#EXTINF:-1 tvg-name="Katie Volynets - Kimberly Birrell" group-title="Maç Yayınları",Katie Volynets - Kimberly Birrell
-https://andro.2385437.xyz/checklist/androstreamlivech38811649.m3u8
-#EXTINF:-1 tvg-name="Oliver Crawford - Edward Winter" group-title="Maç Yayınları",Oliver Crawford - Edward Winter
-https://andro.2385437.xyz/checklist/androstreamlivech38811863.m3u8
-#EXTINF:-1 tvg-name="Whitney Osuigwe - Tomai Carla" group-title="Maç Yayınları",Whitney Osuigwe - Tomai Carla
-https://andro.2385437.xyz/checklist/androstreamlivech38811827.m3u8
-#EXTINF:-1 tvg-name="Yanaki Milev - Miguel Tobon" group-title="Maç Yayınları",Yanaki Milev - Miguel Tobon
-https://andro.2385437.xyz/checklist/androstreamlivech38811843.m3u8
-#EXTINF:-1 tvg-name="Valentina Losciale - Angelina Voloshchuk" group-title="Maç Yayınları",Valentina Losciale - Angelina Voloshchuk
-https://andro.2385437.xyz/checklist/androstreamlivech38811901.m3u8
-#EXTINF:-1 tvg-name="Yoana Moneva - Alexa Karatancheva" group-title="Maç Yayınları",Yoana Moneva - Alexa Karatancheva
-https://andro.2385437.xyz/checklist/androstreamlivech38812063.m3u8
-#EXTINF:-1 tvg-name="Ashlyn Krueger - Celine Naef" group-title="Maç Yayınları",Ashlyn Krueger - Celine Naef
-https://andro.2385437.xyz/checklist/androstreamlivech38812099.m3u8
-#EXTINF:-1 tvg-name="Marie Kolvinter - Pauline Dore" group-title="Maç Yayınları",Marie Kolvinter - Pauline Dore
-https://andro.2385437.xyz/checklist/androstreamlivech38812111.m3u8
+#EXTINF:-1 tvg-name="Karlbergs BK - Hammarby Talang FF" group-title="Maç Yayınları",Karlbergs BK - Hammarby Talang FF
+https://andro.2385437.xyz/checklist/androstreamlivech38812389.m3u8
+#EXTINF:-1 tvg-name="Ninh Binh FC - Cong An Ho Chi Minh City" group-title="Maç Yayınları",Ninh Binh FC - Cong An Ho Chi Minh City
+https://andro.2385437.xyz/checklist/androstreamlivech38812737.m3u8
+#EXTINF:-1 tvg-name="FC Hegelmann - FK Kauno Zalgiris" group-title="Maç Yayınları",FC Hegelmann - FK Kauno Zalgiris
+https://andro.2385437.xyz/checklist/androstreamlivech38812609.m3u8
+#EXTINF:-1 tvg-name="JK Nomme Kalju - Paide Linnameeskond" group-title="Maç Yayınları",JK Nomme Kalju - Paide Linnameeskond
+https://andro.2385437.xyz/checklist/androstreamlivech38812815.m3u8
+#EXTINF:-1 tvg-name="Foshan Nanshi - Shaanxi Union FC" group-title="Maç Yayınları",Foshan Nanshi - Shaanxi Union FC
+https://andro.2385437.xyz/checklist/androstreamlivech38812789.m3u8
+#EXTINF:-1 tvg-name="Nantong Zhiyun FC - Yanbian Longding" group-title="Maç Yayınları",Nantong Zhiyun FC - Yanbian Longding
+https://andro.2385437.xyz/checklist/androstreamlivech38812791.m3u8
+#EXTINF:-1 tvg-name="Guizhou Zhucheng - Guangzhou Dandelion Alpha" group-title="Maç Yayınları",Guizhou Zhucheng - Guangzhou Dandelion Alpha
+https://andro.2385437.xyz/checklist/androstreamlivech38812809.m3u8
+#EXTINF:-1 tvg-name="Ganzhou Ruishi - Wuhan Three Towns II" group-title="Maç Yayınları",Ganzhou Ruishi - Wuhan Three Towns II
+https://andro.2385437.xyz/checklist/androstreamlivech38812807.m3u8
+#EXTINF:-1 tvg-name="Hubei Istar - Shenzhen 2028" group-title="Maç Yayınları",Hubei Istar - Shenzhen 2028
+https://andro.2385437.xyz/checklist/androstreamlivech38812799.m3u8
+#EXTINF:-1 tvg-name="Zhejiang (w) - Guangxi Pingguo Bannong (w)" group-title="Maç Yayınları",Zhejiang (w) - Guangxi Pingguo Bannong (w)
+https://andro.2385437.xyz/checklist/androstreamlivech38813137.m3u8
+#EXTINF:-1 tvg-name="Gintra Universitetas (w) - Zalgiris Vilnius (w)" group-title="Maç Yayınları",Gintra Universitetas (w) - Zalgiris Vilnius (w)
+https://andro.2385437.xyz/checklist/androstreamlivech38813253.m3u8
+#EXTINF:-1 tvg-name="Ulytau FC - FC Zhenis" group-title="Maç Yayınları",Ulytau FC - FC Zhenis
+https://andro.2385437.xyz/checklist/androstreamlivech38813185.m3u8
+#EXTINF:-1 tvg-name="Tupan MA - Sao Jose De Ribamar EC" group-title="Maç Yayınları",Tupan MA - Sao Jose De Ribamar EC
+https://andro.2385437.xyz/checklist/androstreamlivech38813255.m3u8
+#EXTINF:-1 tvg-name="Saint George FC - Defence Force SC" group-title="Maç Yayınları",Saint George FC - Defence Force SC
+https://andro.2385437.xyz/checklist/androstreamlivech38813491.m3u8
+#EXTINF:-1 tvg-name="Transport United FC - Thimphu City" group-title="Maç Yayınları",Transport United FC - Thimphu City
+https://andro.2385437.xyz/checklist/androstreamlivech38813305.m3u8
+#EXTINF:-1 tvg-name="Nara United - Uttaradit FC" group-title="Maç Yayınları",Nara United - Uttaradit FC
+https://andro.2385437.xyz/checklist/androstreamlivech38813231.m3u8
+#EXTINF:-1 tvg-name="Tusker FC - Kenya Police FC" group-title="Maç Yayınları",Tusker FC - Kenya Police FC
+https://andro.2385437.xyz/checklist/androstreamlivech38813337.m3u8
+#EXTINF:-1 tvg-name="Lysekloster Idrettslag - Notodden FK" group-title="Maç Yayınları",Lysekloster Idrettslag - Notodden FK
+https://andro.2385437.xyz/checklist/androstreamlivech19406093.m3u8
+#EXTINF:-1 tvg-name="Pegasus (2x2) - Mirabel (2x2)" group-title="Maç Yayınları",Pegasus (2x2) - Mirabel (2x2)
+https://andro.2385437.xyz/checklist/androstreamlivech19406707.m3u8
+#EXTINF:-1 tvg-name="Hertha (Amatörler) - Eintracht (Amatörler)" group-title="Maç Yayınları",Hertha (Amatörler) - Eintracht (Amatörler)
+https://andro.2385437.xyz/checklist/androstreamlivech19406618.m3u8
+#EXTINF:-1 tvg-name="Veneti+ - Ancalites+" group-title="Maç Yayınları",Veneti+ - Ancalites+
+https://andro.2385437.xyz/checklist/androstreamlivech19406740.m3u8
+#EXTINF:-1 tvg-name="Transport United - Thimphu City" group-title="Maç Yayınları",Transport United - Thimphu City
+https://andro.2385437.xyz/checklist/androstreamlivech19406486.m3u8
+#EXTINF:-1 tvg-name="Ulytau - Jenis" group-title="Maç Yayınları",Ulytau - Jenis
+https://andro.2385437.xyz/checklist/androstreamlivech19406426.m3u8
+#EXTINF:-1 tvg-name="Skeid Fotball - Rana" group-title="Maç Yayınları",Skeid Fotball - Rana
+https://andro.2385437.xyz/checklist/androstreamlivech19406099.m3u8
+#EXTINF:-1 tvg-name="FC Gomel II - Niva Dolbizno" group-title="Maç Yayınları",FC Gomel II - Niva Dolbizno
+https://andro.2385437.xyz/checklist/androstreamlivech19406072.m3u8
+#EXTINF:-1 tvg-name="FC Gomel (Bayanlar) - Dinamo Brest (Bayanlar)" group-title="Maç Yayınları",FC Gomel (Bayanlar) - Dinamo Brest (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech19406492.m3u8
+#EXTINF:-1 tvg-name="Gintra (Bayanlar) - VMFD Zalgiris Vilnius (Bayanlar)" group-title="Maç Yayınları",Gintra (Bayanlar) - VMFD Zalgiris Vilnius (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech19406460.m3u8
+#EXTINF:-1 tvg-name="Saint-George Addis Abeba - Defence Force Addis Ababa" group-title="Maç Yayınları",Saint-George Addis Abeba - Defence Force Addis Ababa
+https://andro.2385437.xyz/checklist/androstreamlivech19406579.m3u8
+#EXTINF:-1 tvg-name="Pobeda Nizhny Novgorod - Rubin Kazan II" group-title="Maç Yayınları",Pobeda Nizhny Novgorod - Rubin Kazan II
+https://andro.2385437.xyz/checklist/androstreamlivech19406422.m3u8
+#EXTINF:-1 tvg-name="ROBOT - RADIO" group-title="Maç Yayınları",ROBOT - RADIO
+https://andro.2385437.xyz/checklist/androstreamlivech19406691.m3u8
+#EXTINF:-1 tvg-name="Austin + - St. Louis +" group-title="Maç Yayınları",Austin + - St. Louis +
+https://andro.2385437.xyz/checklist/androstreamlivech19406636.m3u8
+#EXTINF:-1 tvg-name="Sotra SK - Brattvåg IL" group-title="Maç Yayınları",Sotra SK - Brattvåg IL
+https://andro.2385437.xyz/checklist/androstreamlivech19406098.m3u8
+#EXTINF:-1 tvg-name="Roda (Amatörler) - Utrecht (Amatörler)" group-title="Maç Yayınları",Roda (Amatörler) - Utrecht (Amatörler)
+https://andro.2385437.xyz/checklist/androstreamlivech19406679.m3u8
+#EXTINF:-1 tvg-name="Chelyabinsk II - KDV" group-title="Maç Yayınları",Chelyabinsk II - KDV
+https://andro.2385437.xyz/checklist/androstreamlivech19406470.m3u8
+#EXTINF:-1 tvg-name="SK Træff - Idrettslaget Bjarg" group-title="Maç Yayınları",SK Træff - Idrettslaget Bjarg
+https://andro.2385437.xyz/checklist/androstreamlivech19406690.m3u8
+#EXTINF:-1 tvg-name="Angkor+ - Varna+" group-title="Maç Yayınları",Angkor+ - Varna+
+https://andro.2385437.xyz/checklist/androstreamlivech19406738.m3u8
+#EXTINF:-1 tvg-name="FK Jerv - Sandviken" group-title="Maç Yayınları",FK Jerv - Sandviken
+https://andro.2385437.xyz/checklist/androstreamlivech38813711.m3u8
+#EXTINF:-1 tvg-name="Mighty Wanderers FC - Creck SC" group-title="Maç Yayınları",Mighty Wanderers FC - Creck SC
+https://andro.2385437.xyz/checklist/androstreamlivech38813779.m3u8
+#EXTINF:-1 tvg-name="Silver Strikers - Karonga United" group-title="Maç Yayınları",Silver Strikers - Karonga United
+https://andro.2385437.xyz/checklist/androstreamlivech38813781.m3u8
+#EXTINF:-1 tvg-name="Tukums 2000 II - Valmieras FK" group-title="Maç Yayınları",Tukums 2000 II - Valmieras FK
+https://andro.2385437.xyz/checklist/androstreamlivech19406133.m3u8
+#EXTINF:-1 tvg-name="FK Jerv - IL Sandviken" group-title="Maç Yayınları",FK Jerv - IL Sandviken
+https://andro.2385437.xyz/checklist/androstreamlivech19406689.m3u8
+#EXTINF:-1 tvg-name="Zhejiang Professional U20 - Shanghai Shenhua U20" group-title="Maç Yayınları",Zhejiang Professional U20 - Shanghai Shenhua U20
+https://andro.2385437.xyz/checklist/androstreamlivech19406525.m3u8
+#EXTINF:-1 tvg-name="Falkenbergs FF - Örebro SK" group-title="Maç Yayınları",Falkenbergs FF - Örebro SK
+https://andro.2385437.xyz/checklist/androstreamlivech19406772.m3u8
+#EXTINF:-1 tvg-name="Hangzhou Bank (Bayanlar) - Guangxi Pingguo Banong (Bayanlar)" group-title="Maç Yayınları",Hangzhou Bank (Bayanlar) - Guangxi Pingguo Banong (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech19406402.m3u8
+#EXTINF:-1 tvg-name="Nautilus (3x3) - Anteria (3x3)" group-title="Maç Yayınları",Nautilus (3x3) - Anteria (3x3)
+https://andro.2385437.xyz/checklist/androstreamlivech19406718.m3u8
+#EXTINF:-1 tvg-name="Arsenal Tula II - Rodina Moscow III" group-title="Maç Yayınları",Arsenal Tula II - Rodina Moscow III
+https://andro.2385437.xyz/checklist/androstreamlivech19406078.m3u8
+#EXTINF:-1 tvg-name="Shijiazhuang Gongfu - Suzhou Dongwu" group-title="Maç Yayınları",Shijiazhuang Gongfu - Suzhou Dongwu
+https://andro.2385437.xyz/checklist/androstreamlivech19406543.m3u8
+#EXTINF:-1 tvg-name="Ninh Binh - Ho Chi Minh City Police" group-title="Maç Yayınları",Ninh Binh - Ho Chi Minh City Police
+https://andro.2385437.xyz/checklist/androstreamlivech19406202.m3u8
+#EXTINF:-1 tvg-name="Norrby IF - IK Oddevold" group-title="Maç Yayınları",Norrby IF - IK Oddevold
+https://andro.2385437.xyz/checklist/androstreamlivech19406101.m3u8
+#EXTINF:-1 tvg-name="Mighty Wanderers - Creck" group-title="Maç Yayınları",Mighty Wanderers - Creck
+https://andro.2385437.xyz/checklist/androstreamlivech19406723.m3u8
+#EXTINF:-1 tvg-name="Silver Strikers - Karonga United" group-title="Maç Yayınları",Silver Strikers - Karonga United
+https://andro.2385437.xyz/checklist/androstreamlivech19406724.m3u8
+#EXTINF:-1 tvg-name="1860 Munchen (Amatörler) - 1. Kaiserslautern (Amatörler)" group-title="Maç Yayınları",1860 Munchen (Amatörler) - 1. Kaiserslautern (Amatörler)
+https://andro.2385437.xyz/checklist/androstreamlivech19406617.m3u8
+#EXTINF:-1 tvg-name="Charleston + - Hartford +" group-title="Maç Yayınları",Charleston + - Hartford +
+https://andro.2385437.xyz/checklist/androstreamlivech19406591.m3u8
+#EXTINF:-1 tvg-name="TNT Tropang Giga - Barangay Ginebra San Miguel" group-title="Maç Yayınları",TNT Tropang Giga - Barangay Ginebra San Miguel
+https://andro.2385437.xyz/checklist/androstreamlivech38812735.m3u8
+#EXTINF:-1 tvg-name="Lagoa Rupers - Baskae" group-title="Maç Yayınları",Lagoa Rupers - Baskae
+https://andro.2385437.xyz/checklist/androstreamlivech38812901.m3u8
+#EXTINF:-1 tvg-name="Ekaterinburg (Bayanlar) - Khimki (Bayanlar)" group-title="Maç Yayınları",Ekaterinburg (Bayanlar) - Khimki (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech19406415.m3u8
+#EXTINF:-1 tvg-name="Cuka 3x3 - Serbia 2 3x3 U21" group-title="Maç Yayınları",Cuka 3x3 - Serbia 2 3x3 U21
+https://andro.2385437.xyz/checklist/androstreamlivech19406769.m3u8
+#EXTINF:-1 tvg-name="Lunar Squad - Kryptonite" group-title="Maç Yayınları",Lunar Squad - Kryptonite
+https://andro.2385437.xyz/checklist/androstreamlivech19406368.m3u8
+#EXTINF:-1 tvg-name="Ho Chi Minh City Wings - Hanoi Buffaloes" group-title="Maç Yayınları",Ho Chi Minh City Wings - Hanoi Buffaloes
+https://andro.2385437.xyz/checklist/androstreamlivech19406640.m3u8
+#EXTINF:-1 tvg-name="Lipetsk - Arkhangelsk" group-title="Maç Yayınları",Lipetsk - Arkhangelsk
+https://andro.2385437.xyz/checklist/androstreamlivech19406464.m3u8
+#EXTINF:-1 tvg-name="Lagoa Rupers - Baskae" group-title="Maç Yayınları",Lagoa Rupers - Baskae
+https://andro.2385437.xyz/checklist/androstreamlivech19406284.m3u8
+#EXTINF:-1 tvg-name="Ho Chi Minh City Wings - Hanoi Buffaloes" group-title="Maç Yayınları",Ho Chi Minh City Wings - Hanoi Buffaloes
+https://andro.2385437.xyz/checklist/androstreamlivech38813613.m3u8
+#EXTINF:-1 tvg-name="UPDF Tomahawks (Bayanlar) - Victoria Crocs (Bayanlar)" group-title="Maç Yayınları",UPDF Tomahawks (Bayanlar) - Victoria Crocs (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech19406152.m3u8
+#EXTINF:-1 tvg-name="Kenya Pipeline (w) - DCI (w)" group-title="Maç Yayınları",Kenya Pipeline (w) - DCI (w)
+https://andro.2385437.xyz/checklist/androstreamlivech38812881.m3u8
+#EXTINF:-1 tvg-name="Slovenia - Japan" group-title="Maç Yayınları",Slovenia - Japan
+https://andro.2385437.xyz/checklist/androstreamlivech38812887.m3u8
+#EXTINF:-1 tvg-name="Japonya (Bayanlar) - ABD (Bayanlar)" group-title="Maç Yayınları",Japonya (Bayanlar) - ABD (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech19406662.m3u8
+#EXTINF:-1 tvg-name="Brezilya - Arjantin" group-title="Maç Yayınları",Brezilya - Arjantin
+https://andro.2385437.xyz/checklist/androstreamlivech19406705.m3u8
+#EXTINF:-1 tvg-name="Arjantin - Japonya" group-title="Maç Yayınları",Arjantin - Japonya
+https://andro.2385437.xyz/checklist/androstreamlivech19406126.m3u8
+#EXTINF:-1 tvg-name="ABD - Polonya" group-title="Maç Yayınları",ABD - Polonya
+https://andro.2385437.xyz/checklist/androstreamlivech19406663.m3u8
+#EXTINF:-1 tvg-name="Kenya Pipeline (Bayanlar) - DCI (Bayanlar)" group-title="Maç Yayınları",Kenya Pipeline (Bayanlar) - DCI (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech19406274.m3u8
+#EXTINF:-1 tvg-name="Finland - Croatia" group-title="Maç Yayınları",Finland - Croatia
+https://andro.2385437.xyz/checklist/androstreamlivech38813459.m3u8
+#EXTINF:-1 tvg-name="ABD - Fransa" group-title="Maç Yayınları",ABD - Fransa
+https://andro.2385437.xyz/checklist/androstreamlivech19406384.m3u8
+#EXTINF:-1 tvg-name="Japonya - Çin" group-title="Maç Yayınları",Japonya - Çin
+https://andro.2385437.xyz/checklist/androstreamlivech19406396.m3u8
+#EXTINF:-1 tvg-name="Türkiye (Bayanlar) - Çin (Bayanlar)" group-title="Maç Yayınları",Türkiye (Bayanlar) - Çin (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech19406455.m3u8
+#EXTINF:-1 tvg-name="Diane Parry - Ella Seidel" group-title="Maç Yayınları",Diane Parry - Ella Seidel
+https://andro.2385437.xyz/checklist/androstreamlivech38810711.m3u8
+#EXTINF:-1 tvg-name="Lulu Sun - Anhelina Kalinina" group-title="Maç Yayınları",Lulu Sun - Anhelina Kalinina
+https://andro.2385437.xyz/checklist/androstreamlivech38810713.m3u8
+#EXTINF:-1 tvg-name="Suzan Lamens - Dalma Galfi" group-title="Maç Yayınları",Suzan Lamens - Dalma Galfi
+https://andro.2385437.xyz/checklist/androstreamlivech38810715.m3u8
+#EXTINF:-1 tvg-name="Maria Aran Teixido Garcia - Luna Vujovic" group-title="Maç Yayınları",Maria Aran Teixido Garcia - Luna Vujovic
+https://andro.2385437.xyz/checklist/androstreamlivech38812459.m3u8
+#EXTINF:-1 tvg-name="Michele Mecarelli - Jakub Paul" group-title="Maç Yayınları",Michele Mecarelli - Jakub Paul
+https://andro.2385437.xyz/checklist/androstreamlivech38812913.m3u8
+#EXTINF:-1 tvg-name="Samuel Vincent Ruggeri - Alejo Sanchez Quilez" group-title="Maç Yayınları",Samuel Vincent Ruggeri - Alejo Sanchez Quilez
+https://andro.2385437.xyz/checklist/androstreamlivech38812867.m3u8
+#EXTINF:-1 tvg-name="Daniel Siniakov - Benjamin Hassan" group-title="Maç Yayınları",Daniel Siniakov - Benjamin Hassan
+https://andro.2385437.xyz/checklist/androstreamlivech38813161.m3u8
+#EXTINF:-1 tvg-name="Edas Butvilas - Cruz Hewitt" group-title="Maç Yayınları",Edas Butvilas - Cruz Hewitt
+https://andro.2385437.xyz/checklist/androstreamlivech38813131.m3u8
+#EXTINF:-1 tvg-name="Lucija Ciric Bagaric - Deborah Chiesa" group-title="Maç Yayınları",Lucija Ciric Bagaric - Deborah Chiesa
+https://andro.2385437.xyz/checklist/androstreamlivech38813001.m3u8
+#EXTINF:-1 tvg-name="Julie Struplova - Ekaterina Kazionova" group-title="Maç Yayınları",Julie Struplova - Ekaterina Kazionova
+https://andro.2385437.xyz/checklist/androstreamlivech38813103.m3u8
+#EXTINF:-1 tvg-name="Elina Avanesyan - Kajsa Rinaldo Persson" group-title="Maç Yayınları",Elina Avanesyan - Kajsa Rinaldo Persson
+https://andro.2385437.xyz/checklist/androstreamlivech38813391.m3u8
+#EXTINF:-1 tvg-name="Hannah Mastorakis - Elizaveta Rozhkova" group-title="Maç Yayınları",Hannah Mastorakis - Elizaveta Rozhkova
+https://andro.2385437.xyz/checklist/androstreamlivech38813377.m3u8
+#EXTINF:-1 tvg-name="Andrey Chepelev - Sergi Perez Contri" group-title="Maç Yayınları",Andrey Chepelev - Sergi Perez Contri
+https://andro.2385437.xyz/checklist/androstreamlivech38813371.m3u8
+#EXTINF:-1 tvg-name="Liu Min - Alana Smith" group-title="Maç Yayınları",Liu Min - Alana Smith
+https://andro.2385437.xyz/checklist/androstreamlivech38813257.m3u8
+#EXTINF:-1 tvg-name="Ben Shelton - Taylor Fritz" group-title="Maç Yayınları",Ben Shelton - Taylor Fritz
+https://andro.2385437.xyz/checklist/androstreamlivech38813289.m3u8
+#EXTINF:-1 tvg-name="Lea Belanska - Galena Krastenova" group-title="Maç Yayınları",Lea Belanska - Galena Krastenova
+https://andro.2385437.xyz/checklist/androstreamlivech38813465.m3u8
+#EXTINF:-1 tvg-name="Michael Vrbensky - Milos Karol" group-title="Maç Yayınları",Michael Vrbensky - Milos Karol
+https://andro.2385437.xyz/checklist/androstreamlivech38813379.m3u8
+#EXTINF:-1 tvg-name="Ana Lungu - Irina Fetecau" group-title="Maç Yayınları",Ana Lungu - Irina Fetecau
+https://andro.2385437.xyz/checklist/androstreamlivech38813597.m3u8
+#EXTINF:-1 tvg-name="Zhang Zhizhen - Oliver Okonkwo" group-title="Maç Yayınları",Zhang Zhizhen - Oliver Okonkwo
+https://andro.2385437.xyz/checklist/androstreamlivech38813575.m3u8
+#EXTINF:-1 tvg-name="Harold Mayot - Thanasi Kokkinakis" group-title="Maç Yayınları",Harold Mayot - Thanasi Kokkinakis
+https://andro.2385437.xyz/checklist/androstreamlivech38813723.m3u8
+#EXTINF:-1 tvg-name="Nikolay Kalinichenko 1960 - Vladimir Ivenin" group-title="Maç Yayınları",Nikolay Kalinichenko 1960 - Vladimir Ivenin
+https://andro.2385437.xyz/checklist/androstreamlivech19406700.m3u8
+#EXTINF:-1 tvg-name="Clara Burel - Jenny Lim" group-title="Maç Yayınları",Clara Burel - Jenny Lim
+https://andro.2385437.xyz/checklist/androstreamlivech38813741.m3u8
+#EXTINF:-1 tvg-name="Viktorija Golubic - Sofia Kenin" group-title="Maç Yayınları",Viktorija Golubic - Sofia Kenin
+https://andro.2385437.xyz/checklist/androstreamlivech38813763.m3u8
+#EXTINF:-1 tvg-name="Kamil Majchrzak - Alex de Minaur" group-title="Maç Yayınları",Kamil Majchrzak - Alex de Minaur
+https://andro.2385437.xyz/checklist/androstreamlivech38813579.m3u8
+#EXTINF:-1 tvg-name="Mattia Bellucci - Alex Bolt" group-title="Maç Yayınları",Mattia Bellucci - Alex Bolt
+https://andro.2385437.xyz/checklist/androstreamlivech38813693.m3u8
+#EXTINF:-1 tvg-name="Oriol Roca Batalla - Giulio Perego" group-title="Maç Yayınları",Oriol Roca Batalla - Giulio Perego
+https://andro.2385437.xyz/checklist/androstreamlivech38813621.m3u8
+#EXTINF:-1 tvg-name="Donna Vekic - Emma Raducanu" group-title="Maç Yayınları",Donna Vekic - Emma Raducanu
+https://andro.2385437.xyz/checklist/androstreamlivech38813543.m3u8
+#EXTINF:-1 tvg-name="Rinky Hijikata - Marcos Giron" group-title="Maç Yayınları",Rinky Hijikata - Marcos Giron
+https://andro.2385437.xyz/checklist/androstreamlivech38813607.m3u8
+#EXTINF:-1 tvg-name="Monika Gospodinova - Ana Cristiana Mocanu" group-title="Maç Yayınları",Monika Gospodinova - Ana Cristiana Mocanu
+https://andro.2385437.xyz/checklist/androstreamlivech38813807.m3u8
+#EXTINF:-1 tvg-name="Alan Wazny - Denis Yevseyev" group-title="Maç Yayınları",Alan Wazny - Denis Yevseyev
+https://andro.2385437.xyz/checklist/androstreamlivech38813677.m3u8
+#EXTINF:-1 tvg-name="Rio Noguchi - Paul Jubb" group-title="Maç Yayınları",Rio Noguchi - Paul Jubb
+https://andro.2385437.xyz/checklist/androstreamlivech38813883.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BeIN Sports 1
 https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 2" group-title="BeinSports",BeIN Sports 2
@@ -333,162 +381,216 @@ https://andro.2385437.xyz/checklist/androstreamliveexn6.m3u8
 https://andro.2385437.xyz/checklist/androstreamliveexn7.m3u8
 #EXTINF:-1 tvg-name="Exxen Sports 8" group-title="Exxen",Exxen Sports 8
 https://andro.2385437.xyz/checklist/androstreamliveexn8.m3u8
-#EXTINF:-1 tvg-name="Siem Reap (w) - NagaWorld FC (w)" group-title="Maç Yayınları",Siem Reap (w) - NagaWorld FC (w)
-https://andro.2385437.xyz/checklist/androstreamlivech38810651.m3u8
-#EXTINF:-1 tvg-name="Canberra Juventus - Cooma Tigers" group-title="Maç Yayınları",Canberra Juventus - Cooma Tigers
-https://andro.2385437.xyz/checklist/androstreamlivech38810865.m3u8
-#EXTINF:-1 tvg-name="ISPE FC U-20 - Yadanarbon FC U-20" group-title="Maç Yayınları",ISPE FC U-20 - Yadanarbon FC U-20
-https://andro.2385437.xyz/checklist/androstreamlivech38810903.m3u8
-#EXTINF:-1 tvg-name="Falcon U-20 - Myawady FC U-20" group-title="Maç Yayınları",Falcon U-20 - Myawady FC U-20
-https://andro.2385437.xyz/checklist/androstreamlivech38810963.m3u8
-#EXTINF:-1 tvg-name="CF Trival Valderas - CF La Nucia" group-title="Maç Yayınları",CF Trival Valderas - CF La Nucia
-https://andro.2385437.xyz/checklist/androstreamlivech38811339.m3u8
-#EXTINF:-1 tvg-name="FC Flora II - JK Tallinna Kalev" group-title="Maç Yayınları",FC Flora II - JK Tallinna Kalev
-https://andro.2385437.xyz/checklist/androstreamlivech38811223.m3u8
-#EXTINF:-1 tvg-name="Phoenix Johvi - JK Tammeka Tartu II" group-title="Maç Yayınları",Phoenix Johvi - JK Tammeka Tartu II
-https://andro.2385437.xyz/checklist/androstreamlivech38811245.m3u8
-#EXTINF:-1 tvg-name="MFA Zalgiris (w) - Transinvest (w)" group-title="Maç Yayınları",MFA Zalgiris (w) - Transinvest (w)
-https://andro.2385437.xyz/checklist/androstreamlivech38811767.m3u8
-#EXTINF:-1 tvg-name="Guijuelo - Tamaraceite" group-title="Maç Yayınları",Guijuelo - Tamaraceite
-https://andro.2385437.xyz/checklist/androstreamlivech38811873.m3u8
-#EXTINF:-1 tvg-name="Arenas de Armilla CD - SCR Pena Deportiva" group-title="Maç Yayınları",Arenas de Armilla CD - SCR Pena Deportiva
-https://andro.2385437.xyz/checklist/androstreamlivech38811835.m3u8
-#EXTINF:-1 tvg-name="Shanghai Port U-20 - Beijing Guoan U-20" group-title="Maç Yayınları",Shanghai Port U-20 - Beijing Guoan U-20
-https://andro.2385437.xyz/checklist/androstreamlivech38812145.m3u8
-#EXTINF:-1 tvg-name="Shandong Taishan U-20 - Henan U-20" group-title="Maç Yayınları",Shandong Taishan U-20 - Henan U-20
-https://andro.2385437.xyz/checklist/androstreamlivech38812149.m3u8
-#EXTINF:-1 tvg-name="Sveikata - Suduva II" group-title="Maç Yayınları",Sveikata - Suduva II
-https://andro.2385437.xyz/checklist/androstreamlivech38811803.m3u8
-#EXTINF:-1 tvg-name="Phoenix Johvi - Tammeka Tartu U21" group-title="Maç Yayınları",Phoenix Johvi - Tammeka Tartu U21
-https://andro.2385437.xyz/checklist/androstreamlivech19405456.m3u8
-#EXTINF:-1 tvg-name="Sibir-M - KDV II" group-title="Maç Yayınları",Sibir-M - KDV II
-https://andro.2385437.xyz/checklist/androstreamlivech19405713.m3u8
-#EXTINF:-1 tvg-name="St. Louis + - Fusion +" group-title="Maç Yayınları",St. Louis + - Fusion +
-https://andro.2385437.xyz/checklist/androstreamlivech19405870.m3u8
-#EXTINF:-1 tvg-name="Bayern (Amatörler) - Stuttgart (Amatörler)" group-title="Maç Yayınları",Bayern (Amatörler) - Stuttgart (Amatörler)
-https://andro.2385437.xyz/checklist/androstreamlivech19405833.m3u8
-#EXTINF:-1 tvg-name="MFA Zalgiris (Bayanlar) - Transinvest (Bayanlar)" group-title="Maç Yayınları",MFA Zalgiris (Bayanlar) - Transinvest (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech19405717.m3u8
-#EXTINF:-1 tvg-name="Diamantina - Freerona" group-title="Maç Yayınları",Diamantina - Freerona
-https://andro.2385437.xyz/checklist/androstreamlivech19405856.m3u8
-#EXTINF:-1 tvg-name="Akron Tolyatti II - FC Nosta Novotroitsk" group-title="Maç Yayınları",Akron Tolyatti II - FC Nosta Novotroitsk
-https://andro.2385437.xyz/checklist/androstreamlivech19405640.m3u8
-#EXTINF:-1 tvg-name="Berliner Dynamo (Amatörler) - Alemannia Aachen (Amatörler)" group-title="Maç Yayınları",Berliner Dynamo (Amatörler) - Alemannia Aachen (Amatörler)
-https://andro.2385437.xyz/checklist/androstreamlivech19405832.m3u8
-#EXTINF:-1 tvg-name="Abia Angels (Bayanlar) - Robo (Bayanlar)" group-title="Maç Yayınları",Abia Angels (Bayanlar) - Robo (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech19405789.m3u8
-#EXTINF:-1 tvg-name="Miracle (2x2) - Solaris (2x2)" group-title="Maç Yayınları",Miracle (2x2) - Solaris (2x2)
-https://andro.2385437.xyz/checklist/androstreamlivech19405840.m3u8
-#EXTINF:-1 tvg-name="Cosmos Khimki - Baltika Kaliningrad II" group-title="Maç Yayınları",Cosmos Khimki - Baltika Kaliningrad II
-https://andro.2385437.xyz/checklist/androstreamlivech19405636.m3u8
-#EXTINF:-1 tvg-name="MILITARY - LING" group-title="Maç Yayınları",MILITARY - LING
-https://andro.2385437.xyz/checklist/androstreamlivech19405893.m3u8
-#EXTINF:-1 tvg-name="Selangor Shah Alam (Bayanlar) - Red Eagles (Bayanlar)" group-title="Maç Yayınları",Selangor Shah Alam (Bayanlar) - Red Eagles (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech19405208.m3u8
-#EXTINF:-1 tvg-name="Nijmegen (Amatörler) - Roda (Amatörler)" group-title="Maç Yayınları",Nijmegen (Amatörler) - Roda (Amatörler)
-https://andro.2385437.xyz/checklist/androstreamlivech19405815.m3u8
-#EXTINF:-1 tvg-name="Hartford + - Loudoun +" group-title="Maç Yayınları",Hartford + - Loudoun +
-https://andro.2385437.xyz/checklist/androstreamlivech19405800.m3u8
-#EXTINF:-1 tvg-name="Rassvet Krasnoyarsk - Yenisey-M" group-title="Maç Yayınları",Rassvet Krasnoyarsk - Yenisey-M
-https://andro.2385437.xyz/checklist/androstreamlivech19405695.m3u8
-#EXTINF:-1 tvg-name="Sveikata Kybartai - FK Sūduva Marijampolė II" group-title="Maç Yayınları",Sveikata Kybartai - FK Sūduva Marijampolė II
-https://andro.2385437.xyz/checklist/androstreamlivech19405735.m3u8
-#EXTINF:-1 tvg-name="Siem Reap (Bayanlar) - Naga World (Bayanlar)" group-title="Maç Yayınları",Siem Reap (Bayanlar) - Naga World (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech19405159.m3u8
-#EXTINF:-1 tvg-name="Dynamo Barnaul - Krylia Sovetov II" group-title="Maç Yayınları",Dynamo Barnaul - Krylia Sovetov II
-https://andro.2385437.xyz/checklist/androstreamlivech19405646.m3u8
-#EXTINF:-1 tvg-name="Taoyuan Pilots - Fubon Braves" group-title="Maç Yayınları",Taoyuan Pilots - Fubon Braves
-https://andro.2385437.xyz/checklist/androstreamlivech38810857.m3u8
-#EXTINF:-1 tvg-name="ADU Soaring Falcons - DLSU Green Archers" group-title="Maç Yayınları",ADU Soaring Falcons - DLSU Green Archers
-https://andro.2385437.xyz/checklist/androstreamlivech38811097.m3u8
-#EXTINF:-1 tvg-name="New Zealand Bluefire Valkyries (w) - Akari Sparks (w)" group-title="Maç Yayınları",New Zealand Bluefire Valkyries (w) - Akari Sparks (w)
-https://andro.2385437.xyz/checklist/androstreamlivech38811699.m3u8
-#EXTINF:-1 tvg-name="Ayers Rock BK Gallarate U-19 - Pallacanestro Vado U-19" group-title="Maç Yayınları",Ayers Rock BK Gallarate U-19 - Pallacanestro Vado U-19
-https://andro.2385437.xyz/checklist/androstreamlivech38811771.m3u8
-#EXTINF:-1 tvg-name="Berezniki (Bayanlar) - Khimki (Bayanlar)" group-title="Maç Yayınları",Berezniki (Bayanlar) - Khimki (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech19405603.m3u8
-#EXTINF:-1 tvg-name="Egypt (TBL) - İspanya (TBL)" group-title="Maç Yayınları",Egypt (TBL) - İspanya (TBL)
-https://andro.2385437.xyz/checklist/androstreamlivech19405556.m3u8
-#EXTINF:-1 tvg-name="Gallarate U19 - Vado U19" group-title="Maç Yayınları",Gallarate U19 - Vado U19
-https://andro.2385437.xyz/checklist/androstreamlivech19405719.m3u8
-#EXTINF:-1 tvg-name="Lady Titans (Bayanlar) - Kenya Ports Authority (Bayanlar)" group-title="Maç Yayınları",Lady Titans (Bayanlar) - Kenya Ports Authority (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech19405723.m3u8
-#EXTINF:-1 tvg-name="Avustralya (TBL) - Germany (TBL)" group-title="Maç Yayınları",Avustralya (TBL) - Germany (TBL)
-https://andro.2385437.xyz/checklist/androstreamlivech19405561.m3u8
-#EXTINF:-1 tvg-name="Anapa - Ufa" group-title="Maç Yayınları",Anapa - Ufa
-https://andro.2385437.xyz/checklist/androstreamlivech19405579.m3u8
-#EXTINF:-1 tvg-name="Tula - Arkhangelsk" group-title="Maç Yayınları",Tula - Arkhangelsk
-https://andro.2385437.xyz/checklist/androstreamlivech19405680.m3u8
-#EXTINF:-1 tvg-name="Meteor - Infinity Hoop" group-title="Maç Yayınları",Meteor - Infinity Hoop
-https://andro.2385437.xyz/checklist/androstreamlivech19405613.m3u8
-#EXTINF:-1 tvg-name="ABD - Brezilya" group-title="Maç Yayınları",ABD - Brezilya
-https://andro.2385437.xyz/checklist/androstreamlivech19405037.m3u8
-#EXTINF:-1 tvg-name="GS Chlef (Bayanlar) - Olympique El Flaye (Bayanlar)" group-title="Maç Yayınları",GS Chlef (Bayanlar) - Olympique El Flaye (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech19405528.m3u8
-#EXTINF:-1 tvg-name="Slovenya - ABD" group-title="Maç Yayınları",Slovenya - ABD
-https://andro.2385437.xyz/checklist/androstreamlivech19405763.m3u8
-#EXTINF:-1 tvg-name="KDF (Bayanlar) - KCB (Bayanlar)" group-title="Maç Yayınları",KDF (Bayanlar) - KCB (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech19405590.m3u8
-#EXTINF:-1 tvg-name="Slovakya - İspanya" group-title="Maç Yayınları",Slovakya - İspanya
-https://andro.2385437.xyz/checklist/androstreamlivech19405764.m3u8
-#EXTINF:-1 tvg-name="Mozambik - Ukrayna" group-title="Maç Yayınları",Mozambik - Ukrayna
-https://andro.2385437.xyz/checklist/androstreamlivech19405774.m3u8
-#EXTINF:-1 tvg-name="Sırbistan (Bayanlar) - ABD (Bayanlar)" group-title="Maç Yayınları",Sırbistan (Bayanlar) - ABD (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech19405700.m3u8
-#EXTINF:-1 tvg-name="ABD (Bayanlar) - Japonya (Bayanlar)" group-title="Maç Yayınları",ABD (Bayanlar) - Japonya (Bayanlar)
-https://andro.2385437.xyz/checklist/androstreamlivech19405825.m3u8
-#EXTINF:-1 tvg-name="İran - Küba" group-title="Maç Yayınları",İran - Küba
-https://andro.2385437.xyz/checklist/androstreamlivech19405627.m3u8
-#EXTINF:-1 tvg-name="Jennifer Ruggeri - Yelyzaveta Kotliar" group-title="Maç Yayınları",Jennifer Ruggeri - Yelyzaveta Kotliar
-https://andro.2385437.xyz/checklist/androstreamlivech38810373.m3u8
-#EXTINF:-1 tvg-name="Tatiana Pieri - Diletta Cherubini" group-title="Maç Yayınları",Tatiana Pieri - Diletta Cherubini
-https://andro.2385437.xyz/checklist/androstreamlivech38810377.m3u8
-#EXTINF:-1 tvg-name="Julia Avdeeva - Eva Vedder" group-title="Maç Yayınları",Julia Avdeeva - Eva Vedder
-https://andro.2385437.xyz/checklist/androstreamlivech38810901.m3u8
-#EXTINF:-1 tvg-name="Florian Broska - Michael Bassem Sobhy" group-title="Maç Yayınları",Florian Broska - Michael Bassem Sobhy
-https://andro.2385437.xyz/checklist/androstreamlivech38810867.m3u8
-#EXTINF:-1 tvg-name="Jonas Forejtek - Karol Filar" group-title="Maç Yayınları",Jonas Forejtek - Karol Filar
-https://andro.2385437.xyz/checklist/androstreamlivech38810969.m3u8
-#EXTINF:-1 tvg-name="Marko Topo - Ryan Seggerman" group-title="Maç Yayınları",Marko Topo - Ryan Seggerman
-https://andro.2385437.xyz/checklist/androstreamlivech38811253.m3u8
-#EXTINF:-1 tvg-name="Alexandra Irina Anghel - Kristina Shitikova" group-title="Maç Yayınları",Alexandra Irina Anghel - Kristina Shitikova
-https://andro.2385437.xyz/checklist/androstreamlivech38811311.m3u8
-#EXTINF:-1 tvg-name="Joao Domingues - Pablo Martinez Gomez" group-title="Maç Yayınları",Joao Domingues - Pablo Martinez Gomez
-https://andro.2385437.xyz/checklist/androstreamlivech38811337.m3u8
-#EXTINF:-1 tvg-name="Aliona Falei - Savannah Broadus" group-title="Maç Yayınları",Aliona Falei - Savannah Broadus
-https://andro.2385437.xyz/checklist/androstreamlivech38811373.m3u8
-#EXTINF:-1 tvg-name="Daniil Glinka/Stefanos Sakellaridis - Jan-Lennard Struff/Yannick Hanfmann" group-title="Maç Yayınları",Daniil Glinka/Stefanos Sakellaridis - Jan-Lennard Struff/Yannick Hanfmann
-https://andro.2385437.xyz/checklist/androstreamlivech38811525.m3u8
-#EXTINF:-1 tvg-name="Sergio Callejon Hernando - Lorenzo Bocchi" group-title="Maç Yayınları",Sergio Callejon Hernando - Lorenzo Bocchi
-https://andro.2385437.xyz/checklist/androstreamlivech38811329.m3u8
-#EXTINF:-1 tvg-name="Alexander Shevchenko - Taro Daniel" group-title="Maç Yayınları",Alexander Shevchenko - Taro Daniel
-https://andro.2385437.xyz/checklist/androstreamlivech38811275.m3u8
-#EXTINF:-1 tvg-name="Anna Blinkova - Anna Bondar" group-title="Maç Yayınları",Anna Blinkova - Anna Bondar
-https://andro.2385437.xyz/checklist/androstreamlivech38811645.m3u8
-#EXTINF:-1 tvg-name="Luca Castelnuovo - Fares Zakaria" group-title="Maç Yayınları",Luca Castelnuovo - Fares Zakaria
-https://andro.2385437.xyz/checklist/androstreamlivech38811709.m3u8
-#EXTINF:-1 tvg-name="Ammar Elamin - Andres Andrade" group-title="Maç Yayınları",Ammar Elamin - Andres Andrade
-https://andro.2385437.xyz/checklist/androstreamlivech38811855.m3u8
-#EXTINF:-1 tvg-name="Niels Visker - Dan Added" group-title="Maç Yayınları",Niels Visker - Dan Added
-https://andro.2385437.xyz/checklist/androstreamlivech38811875.m3u8
-#EXTINF:-1 tvg-name="James Watt - Alastair Gray" group-title="Maç Yayınları",James Watt - Alastair Gray
-https://andro.2385437.xyz/checklist/androstreamlivech38811591.m3u8
-#EXTINF:-1 tvg-name="Katie Volynets - Kimberly Birrell" group-title="Maç Yayınları",Katie Volynets - Kimberly Birrell
-https://andro.2385437.xyz/checklist/androstreamlivech38811649.m3u8
-#EXTINF:-1 tvg-name="Oliver Crawford - Edward Winter" group-title="Maç Yayınları",Oliver Crawford - Edward Winter
-https://andro.2385437.xyz/checklist/androstreamlivech38811863.m3u8
-#EXTINF:-1 tvg-name="Whitney Osuigwe - Tomai Carla" group-title="Maç Yayınları",Whitney Osuigwe - Tomai Carla
-https://andro.2385437.xyz/checklist/androstreamlivech38811827.m3u8
-#EXTINF:-1 tvg-name="Yanaki Milev - Miguel Tobon" group-title="Maç Yayınları",Yanaki Milev - Miguel Tobon
-https://andro.2385437.xyz/checklist/androstreamlivech38811843.m3u8
-#EXTINF:-1 tvg-name="Valentina Losciale - Angelina Voloshchuk" group-title="Maç Yayınları",Valentina Losciale - Angelina Voloshchuk
-https://andro.2385437.xyz/checklist/androstreamlivech38811901.m3u8
-#EXTINF:-1 tvg-name="Yoana Moneva - Alexa Karatancheva" group-title="Maç Yayınları",Yoana Moneva - Alexa Karatancheva
-https://andro.2385437.xyz/checklist/androstreamlivech38812063.m3u8
-#EXTINF:-1 tvg-name="Ashlyn Krueger - Celine Naef" group-title="Maç Yayınları",Ashlyn Krueger - Celine Naef
-https://andro.2385437.xyz/checklist/androstreamlivech38812099.m3u8
-#EXTINF:-1 tvg-name="Marie Kolvinter - Pauline Dore" group-title="Maç Yayınları",Marie Kolvinter - Pauline Dore
-https://andro.2385437.xyz/checklist/androstreamlivech38812111.m3u8
+#EXTINF:-1 tvg-name="Karlbergs BK - Hammarby Talang FF" group-title="Maç Yayınları",Karlbergs BK - Hammarby Talang FF
+https://andro.2385437.xyz/checklist/androstreamlivech38812389.m3u8
+#EXTINF:-1 tvg-name="Ninh Binh FC - Cong An Ho Chi Minh City" group-title="Maç Yayınları",Ninh Binh FC - Cong An Ho Chi Minh City
+https://andro.2385437.xyz/checklist/androstreamlivech38812737.m3u8
+#EXTINF:-1 tvg-name="FC Hegelmann - FK Kauno Zalgiris" group-title="Maç Yayınları",FC Hegelmann - FK Kauno Zalgiris
+https://andro.2385437.xyz/checklist/androstreamlivech38812609.m3u8
+#EXTINF:-1 tvg-name="JK Nomme Kalju - Paide Linnameeskond" group-title="Maç Yayınları",JK Nomme Kalju - Paide Linnameeskond
+https://andro.2385437.xyz/checklist/androstreamlivech38812815.m3u8
+#EXTINF:-1 tvg-name="Foshan Nanshi - Shaanxi Union FC" group-title="Maç Yayınları",Foshan Nanshi - Shaanxi Union FC
+https://andro.2385437.xyz/checklist/androstreamlivech38812789.m3u8
+#EXTINF:-1 tvg-name="Nantong Zhiyun FC - Yanbian Longding" group-title="Maç Yayınları",Nantong Zhiyun FC - Yanbian Longding
+https://andro.2385437.xyz/checklist/androstreamlivech38812791.m3u8
+#EXTINF:-1 tvg-name="Guizhou Zhucheng - Guangzhou Dandelion Alpha" group-title="Maç Yayınları",Guizhou Zhucheng - Guangzhou Dandelion Alpha
+https://andro.2385437.xyz/checklist/androstreamlivech38812809.m3u8
+#EXTINF:-1 tvg-name="Ganzhou Ruishi - Wuhan Three Towns II" group-title="Maç Yayınları",Ganzhou Ruishi - Wuhan Three Towns II
+https://andro.2385437.xyz/checklist/androstreamlivech38812807.m3u8
+#EXTINF:-1 tvg-name="Hubei Istar - Shenzhen 2028" group-title="Maç Yayınları",Hubei Istar - Shenzhen 2028
+https://andro.2385437.xyz/checklist/androstreamlivech38812799.m3u8
+#EXTINF:-1 tvg-name="Zhejiang (w) - Guangxi Pingguo Bannong (w)" group-title="Maç Yayınları",Zhejiang (w) - Guangxi Pingguo Bannong (w)
+https://andro.2385437.xyz/checklist/androstreamlivech38813137.m3u8
+#EXTINF:-1 tvg-name="Gintra Universitetas (w) - Zalgiris Vilnius (w)" group-title="Maç Yayınları",Gintra Universitetas (w) - Zalgiris Vilnius (w)
+https://andro.2385437.xyz/checklist/androstreamlivech38813253.m3u8
+#EXTINF:-1 tvg-name="Ulytau FC - FC Zhenis" group-title="Maç Yayınları",Ulytau FC - FC Zhenis
+https://andro.2385437.xyz/checklist/androstreamlivech38813185.m3u8
+#EXTINF:-1 tvg-name="Tupan MA - Sao Jose De Ribamar EC" group-title="Maç Yayınları",Tupan MA - Sao Jose De Ribamar EC
+https://andro.2385437.xyz/checklist/androstreamlivech38813255.m3u8
+#EXTINF:-1 tvg-name="Saint George FC - Defence Force SC" group-title="Maç Yayınları",Saint George FC - Defence Force SC
+https://andro.2385437.xyz/checklist/androstreamlivech38813491.m3u8
+#EXTINF:-1 tvg-name="Transport United FC - Thimphu City" group-title="Maç Yayınları",Transport United FC - Thimphu City
+https://andro.2385437.xyz/checklist/androstreamlivech38813305.m3u8
+#EXTINF:-1 tvg-name="Nara United - Uttaradit FC" group-title="Maç Yayınları",Nara United - Uttaradit FC
+https://andro.2385437.xyz/checklist/androstreamlivech38813231.m3u8
+#EXTINF:-1 tvg-name="Tusker FC - Kenya Police FC" group-title="Maç Yayınları",Tusker FC - Kenya Police FC
+https://andro.2385437.xyz/checklist/androstreamlivech38813337.m3u8
+#EXTINF:-1 tvg-name="Lysekloster Idrettslag - Notodden FK" group-title="Maç Yayınları",Lysekloster Idrettslag - Notodden FK
+https://andro.2385437.xyz/checklist/androstreamlivech19406093.m3u8
+#EXTINF:-1 tvg-name="Pegasus (2x2) - Mirabel (2x2)" group-title="Maç Yayınları",Pegasus (2x2) - Mirabel (2x2)
+https://andro.2385437.xyz/checklist/androstreamlivech19406707.m3u8
+#EXTINF:-1 tvg-name="Hertha (Amatörler) - Eintracht (Amatörler)" group-title="Maç Yayınları",Hertha (Amatörler) - Eintracht (Amatörler)
+https://andro.2385437.xyz/checklist/androstreamlivech19406618.m3u8
+#EXTINF:-1 tvg-name="Veneti+ - Ancalites+" group-title="Maç Yayınları",Veneti+ - Ancalites+
+https://andro.2385437.xyz/checklist/androstreamlivech19406740.m3u8
+#EXTINF:-1 tvg-name="Transport United - Thimphu City" group-title="Maç Yayınları",Transport United - Thimphu City
+https://andro.2385437.xyz/checklist/androstreamlivech19406486.m3u8
+#EXTINF:-1 tvg-name="Ulytau - Jenis" group-title="Maç Yayınları",Ulytau - Jenis
+https://andro.2385437.xyz/checklist/androstreamlivech19406426.m3u8
+#EXTINF:-1 tvg-name="Skeid Fotball - Rana" group-title="Maç Yayınları",Skeid Fotball - Rana
+https://andro.2385437.xyz/checklist/androstreamlivech19406099.m3u8
+#EXTINF:-1 tvg-name="FC Gomel II - Niva Dolbizno" group-title="Maç Yayınları",FC Gomel II - Niva Dolbizno
+https://andro.2385437.xyz/checklist/androstreamlivech19406072.m3u8
+#EXTINF:-1 tvg-name="FC Gomel (Bayanlar) - Dinamo Brest (Bayanlar)" group-title="Maç Yayınları",FC Gomel (Bayanlar) - Dinamo Brest (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech19406492.m3u8
+#EXTINF:-1 tvg-name="Gintra (Bayanlar) - VMFD Zalgiris Vilnius (Bayanlar)" group-title="Maç Yayınları",Gintra (Bayanlar) - VMFD Zalgiris Vilnius (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech19406460.m3u8
+#EXTINF:-1 tvg-name="Saint-George Addis Abeba - Defence Force Addis Ababa" group-title="Maç Yayınları",Saint-George Addis Abeba - Defence Force Addis Ababa
+https://andro.2385437.xyz/checklist/androstreamlivech19406579.m3u8
+#EXTINF:-1 tvg-name="Pobeda Nizhny Novgorod - Rubin Kazan II" group-title="Maç Yayınları",Pobeda Nizhny Novgorod - Rubin Kazan II
+https://andro.2385437.xyz/checklist/androstreamlivech19406422.m3u8
+#EXTINF:-1 tvg-name="ROBOT - RADIO" group-title="Maç Yayınları",ROBOT - RADIO
+https://andro.2385437.xyz/checklist/androstreamlivech19406691.m3u8
+#EXTINF:-1 tvg-name="Austin + - St. Louis +" group-title="Maç Yayınları",Austin + - St. Louis +
+https://andro.2385437.xyz/checklist/androstreamlivech19406636.m3u8
+#EXTINF:-1 tvg-name="Sotra SK - Brattvåg IL" group-title="Maç Yayınları",Sotra SK - Brattvåg IL
+https://andro.2385437.xyz/checklist/androstreamlivech19406098.m3u8
+#EXTINF:-1 tvg-name="Roda (Amatörler) - Utrecht (Amatörler)" group-title="Maç Yayınları",Roda (Amatörler) - Utrecht (Amatörler)
+https://andro.2385437.xyz/checklist/androstreamlivech19406679.m3u8
+#EXTINF:-1 tvg-name="Chelyabinsk II - KDV" group-title="Maç Yayınları",Chelyabinsk II - KDV
+https://andro.2385437.xyz/checklist/androstreamlivech19406470.m3u8
+#EXTINF:-1 tvg-name="SK Træff - Idrettslaget Bjarg" group-title="Maç Yayınları",SK Træff - Idrettslaget Bjarg
+https://andro.2385437.xyz/checklist/androstreamlivech19406690.m3u8
+#EXTINF:-1 tvg-name="Angkor+ - Varna+" group-title="Maç Yayınları",Angkor+ - Varna+
+https://andro.2385437.xyz/checklist/androstreamlivech19406738.m3u8
+#EXTINF:-1 tvg-name="FK Jerv - Sandviken" group-title="Maç Yayınları",FK Jerv - Sandviken
+https://andro.2385437.xyz/checklist/androstreamlivech38813711.m3u8
+#EXTINF:-1 tvg-name="Mighty Wanderers FC - Creck SC" group-title="Maç Yayınları",Mighty Wanderers FC - Creck SC
+https://andro.2385437.xyz/checklist/androstreamlivech38813779.m3u8
+#EXTINF:-1 tvg-name="Silver Strikers - Karonga United" group-title="Maç Yayınları",Silver Strikers - Karonga United
+https://andro.2385437.xyz/checklist/androstreamlivech38813781.m3u8
+#EXTINF:-1 tvg-name="Tukums 2000 II - Valmieras FK" group-title="Maç Yayınları",Tukums 2000 II - Valmieras FK
+https://andro.2385437.xyz/checklist/androstreamlivech19406133.m3u8
+#EXTINF:-1 tvg-name="FK Jerv - IL Sandviken" group-title="Maç Yayınları",FK Jerv - IL Sandviken
+https://andro.2385437.xyz/checklist/androstreamlivech19406689.m3u8
+#EXTINF:-1 tvg-name="Zhejiang Professional U20 - Shanghai Shenhua U20" group-title="Maç Yayınları",Zhejiang Professional U20 - Shanghai Shenhua U20
+https://andro.2385437.xyz/checklist/androstreamlivech19406525.m3u8
+#EXTINF:-1 tvg-name="Falkenbergs FF - Örebro SK" group-title="Maç Yayınları",Falkenbergs FF - Örebro SK
+https://andro.2385437.xyz/checklist/androstreamlivech19406772.m3u8
+#EXTINF:-1 tvg-name="Hangzhou Bank (Bayanlar) - Guangxi Pingguo Banong (Bayanlar)" group-title="Maç Yayınları",Hangzhou Bank (Bayanlar) - Guangxi Pingguo Banong (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech19406402.m3u8
+#EXTINF:-1 tvg-name="Nautilus (3x3) - Anteria (3x3)" group-title="Maç Yayınları",Nautilus (3x3) - Anteria (3x3)
+https://andro.2385437.xyz/checklist/androstreamlivech19406718.m3u8
+#EXTINF:-1 tvg-name="Arsenal Tula II - Rodina Moscow III" group-title="Maç Yayınları",Arsenal Tula II - Rodina Moscow III
+https://andro.2385437.xyz/checklist/androstreamlivech19406078.m3u8
+#EXTINF:-1 tvg-name="Shijiazhuang Gongfu - Suzhou Dongwu" group-title="Maç Yayınları",Shijiazhuang Gongfu - Suzhou Dongwu
+https://andro.2385437.xyz/checklist/androstreamlivech19406543.m3u8
+#EXTINF:-1 tvg-name="Ninh Binh - Ho Chi Minh City Police" group-title="Maç Yayınları",Ninh Binh - Ho Chi Minh City Police
+https://andro.2385437.xyz/checklist/androstreamlivech19406202.m3u8
+#EXTINF:-1 tvg-name="Norrby IF - IK Oddevold" group-title="Maç Yayınları",Norrby IF - IK Oddevold
+https://andro.2385437.xyz/checklist/androstreamlivech19406101.m3u8
+#EXTINF:-1 tvg-name="Mighty Wanderers - Creck" group-title="Maç Yayınları",Mighty Wanderers - Creck
+https://andro.2385437.xyz/checklist/androstreamlivech19406723.m3u8
+#EXTINF:-1 tvg-name="Silver Strikers - Karonga United" group-title="Maç Yayınları",Silver Strikers - Karonga United
+https://andro.2385437.xyz/checklist/androstreamlivech19406724.m3u8
+#EXTINF:-1 tvg-name="1860 Munchen (Amatörler) - 1. Kaiserslautern (Amatörler)" group-title="Maç Yayınları",1860 Munchen (Amatörler) - 1. Kaiserslautern (Amatörler)
+https://andro.2385437.xyz/checklist/androstreamlivech19406617.m3u8
+#EXTINF:-1 tvg-name="Charleston + - Hartford +" group-title="Maç Yayınları",Charleston + - Hartford +
+https://andro.2385437.xyz/checklist/androstreamlivech19406591.m3u8
+#EXTINF:-1 tvg-name="TNT Tropang Giga - Barangay Ginebra San Miguel" group-title="Maç Yayınları",TNT Tropang Giga - Barangay Ginebra San Miguel
+https://andro.2385437.xyz/checklist/androstreamlivech38812735.m3u8
+#EXTINF:-1 tvg-name="Lagoa Rupers - Baskae" group-title="Maç Yayınları",Lagoa Rupers - Baskae
+https://andro.2385437.xyz/checklist/androstreamlivech38812901.m3u8
+#EXTINF:-1 tvg-name="Ekaterinburg (Bayanlar) - Khimki (Bayanlar)" group-title="Maç Yayınları",Ekaterinburg (Bayanlar) - Khimki (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech19406415.m3u8
+#EXTINF:-1 tvg-name="Cuka 3x3 - Serbia 2 3x3 U21" group-title="Maç Yayınları",Cuka 3x3 - Serbia 2 3x3 U21
+https://andro.2385437.xyz/checklist/androstreamlivech19406769.m3u8
+#EXTINF:-1 tvg-name="Lunar Squad - Kryptonite" group-title="Maç Yayınları",Lunar Squad - Kryptonite
+https://andro.2385437.xyz/checklist/androstreamlivech19406368.m3u8
+#EXTINF:-1 tvg-name="Ho Chi Minh City Wings - Hanoi Buffaloes" group-title="Maç Yayınları",Ho Chi Minh City Wings - Hanoi Buffaloes
+https://andro.2385437.xyz/checklist/androstreamlivech19406640.m3u8
+#EXTINF:-1 tvg-name="Lipetsk - Arkhangelsk" group-title="Maç Yayınları",Lipetsk - Arkhangelsk
+https://andro.2385437.xyz/checklist/androstreamlivech19406464.m3u8
+#EXTINF:-1 tvg-name="Lagoa Rupers - Baskae" group-title="Maç Yayınları",Lagoa Rupers - Baskae
+https://andro.2385437.xyz/checklist/androstreamlivech19406284.m3u8
+#EXTINF:-1 tvg-name="Ho Chi Minh City Wings - Hanoi Buffaloes" group-title="Maç Yayınları",Ho Chi Minh City Wings - Hanoi Buffaloes
+https://andro.2385437.xyz/checklist/androstreamlivech38813613.m3u8
+#EXTINF:-1 tvg-name="UPDF Tomahawks (Bayanlar) - Victoria Crocs (Bayanlar)" group-title="Maç Yayınları",UPDF Tomahawks (Bayanlar) - Victoria Crocs (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech19406152.m3u8
+#EXTINF:-1 tvg-name="Kenya Pipeline (w) - DCI (w)" group-title="Maç Yayınları",Kenya Pipeline (w) - DCI (w)
+https://andro.2385437.xyz/checklist/androstreamlivech38812881.m3u8
+#EXTINF:-1 tvg-name="Slovenia - Japan" group-title="Maç Yayınları",Slovenia - Japan
+https://andro.2385437.xyz/checklist/androstreamlivech38812887.m3u8
+#EXTINF:-1 tvg-name="Japonya (Bayanlar) - ABD (Bayanlar)" group-title="Maç Yayınları",Japonya (Bayanlar) - ABD (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech19406662.m3u8
+#EXTINF:-1 tvg-name="Brezilya - Arjantin" group-title="Maç Yayınları",Brezilya - Arjantin
+https://andro.2385437.xyz/checklist/androstreamlivech19406705.m3u8
+#EXTINF:-1 tvg-name="Arjantin - Japonya" group-title="Maç Yayınları",Arjantin - Japonya
+https://andro.2385437.xyz/checklist/androstreamlivech19406126.m3u8
+#EXTINF:-1 tvg-name="ABD - Polonya" group-title="Maç Yayınları",ABD - Polonya
+https://andro.2385437.xyz/checklist/androstreamlivech19406663.m3u8
+#EXTINF:-1 tvg-name="Kenya Pipeline (Bayanlar) - DCI (Bayanlar)" group-title="Maç Yayınları",Kenya Pipeline (Bayanlar) - DCI (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech19406274.m3u8
+#EXTINF:-1 tvg-name="Finland - Croatia" group-title="Maç Yayınları",Finland - Croatia
+https://andro.2385437.xyz/checklist/androstreamlivech38813459.m3u8
+#EXTINF:-1 tvg-name="ABD - Fransa" group-title="Maç Yayınları",ABD - Fransa
+https://andro.2385437.xyz/checklist/androstreamlivech19406384.m3u8
+#EXTINF:-1 tvg-name="Japonya - Çin" group-title="Maç Yayınları",Japonya - Çin
+https://andro.2385437.xyz/checklist/androstreamlivech19406396.m3u8
+#EXTINF:-1 tvg-name="Türkiye (Bayanlar) - Çin (Bayanlar)" group-title="Maç Yayınları",Türkiye (Bayanlar) - Çin (Bayanlar)
+https://andro.2385437.xyz/checklist/androstreamlivech19406455.m3u8
+#EXTINF:-1 tvg-name="Diane Parry - Ella Seidel" group-title="Maç Yayınları",Diane Parry - Ella Seidel
+https://andro.2385437.xyz/checklist/androstreamlivech38810711.m3u8
+#EXTINF:-1 tvg-name="Lulu Sun - Anhelina Kalinina" group-title="Maç Yayınları",Lulu Sun - Anhelina Kalinina
+https://andro.2385437.xyz/checklist/androstreamlivech38810713.m3u8
+#EXTINF:-1 tvg-name="Suzan Lamens - Dalma Galfi" group-title="Maç Yayınları",Suzan Lamens - Dalma Galfi
+https://andro.2385437.xyz/checklist/androstreamlivech38810715.m3u8
+#EXTINF:-1 tvg-name="Maria Aran Teixido Garcia - Luna Vujovic" group-title="Maç Yayınları",Maria Aran Teixido Garcia - Luna Vujovic
+https://andro.2385437.xyz/checklist/androstreamlivech38812459.m3u8
+#EXTINF:-1 tvg-name="Michele Mecarelli - Jakub Paul" group-title="Maç Yayınları",Michele Mecarelli - Jakub Paul
+https://andro.2385437.xyz/checklist/androstreamlivech38812913.m3u8
+#EXTINF:-1 tvg-name="Samuel Vincent Ruggeri - Alejo Sanchez Quilez" group-title="Maç Yayınları",Samuel Vincent Ruggeri - Alejo Sanchez Quilez
+https://andro.2385437.xyz/checklist/androstreamlivech38812867.m3u8
+#EXTINF:-1 tvg-name="Daniel Siniakov - Benjamin Hassan" group-title="Maç Yayınları",Daniel Siniakov - Benjamin Hassan
+https://andro.2385437.xyz/checklist/androstreamlivech38813161.m3u8
+#EXTINF:-1 tvg-name="Edas Butvilas - Cruz Hewitt" group-title="Maç Yayınları",Edas Butvilas - Cruz Hewitt
+https://andro.2385437.xyz/checklist/androstreamlivech38813131.m3u8
+#EXTINF:-1 tvg-name="Lucija Ciric Bagaric - Deborah Chiesa" group-title="Maç Yayınları",Lucija Ciric Bagaric - Deborah Chiesa
+https://andro.2385437.xyz/checklist/androstreamlivech38813001.m3u8
+#EXTINF:-1 tvg-name="Julie Struplova - Ekaterina Kazionova" group-title="Maç Yayınları",Julie Struplova - Ekaterina Kazionova
+https://andro.2385437.xyz/checklist/androstreamlivech38813103.m3u8
+#EXTINF:-1 tvg-name="Elina Avanesyan - Kajsa Rinaldo Persson" group-title="Maç Yayınları",Elina Avanesyan - Kajsa Rinaldo Persson
+https://andro.2385437.xyz/checklist/androstreamlivech38813391.m3u8
+#EXTINF:-1 tvg-name="Hannah Mastorakis - Elizaveta Rozhkova" group-title="Maç Yayınları",Hannah Mastorakis - Elizaveta Rozhkova
+https://andro.2385437.xyz/checklist/androstreamlivech38813377.m3u8
+#EXTINF:-1 tvg-name="Andrey Chepelev - Sergi Perez Contri" group-title="Maç Yayınları",Andrey Chepelev - Sergi Perez Contri
+https://andro.2385437.xyz/checklist/androstreamlivech38813371.m3u8
+#EXTINF:-1 tvg-name="Liu Min - Alana Smith" group-title="Maç Yayınları",Liu Min - Alana Smith
+https://andro.2385437.xyz/checklist/androstreamlivech38813257.m3u8
+#EXTINF:-1 tvg-name="Ben Shelton - Taylor Fritz" group-title="Maç Yayınları",Ben Shelton - Taylor Fritz
+https://andro.2385437.xyz/checklist/androstreamlivech38813289.m3u8
+#EXTINF:-1 tvg-name="Lea Belanska - Galena Krastenova" group-title="Maç Yayınları",Lea Belanska - Galena Krastenova
+https://andro.2385437.xyz/checklist/androstreamlivech38813465.m3u8
+#EXTINF:-1 tvg-name="Michael Vrbensky - Milos Karol" group-title="Maç Yayınları",Michael Vrbensky - Milos Karol
+https://andro.2385437.xyz/checklist/androstreamlivech38813379.m3u8
+#EXTINF:-1 tvg-name="Ana Lungu - Irina Fetecau" group-title="Maç Yayınları",Ana Lungu - Irina Fetecau
+https://andro.2385437.xyz/checklist/androstreamlivech38813597.m3u8
+#EXTINF:-1 tvg-name="Zhang Zhizhen - Oliver Okonkwo" group-title="Maç Yayınları",Zhang Zhizhen - Oliver Okonkwo
+https://andro.2385437.xyz/checklist/androstreamlivech38813575.m3u8
+#EXTINF:-1 tvg-name="Harold Mayot - Thanasi Kokkinakis" group-title="Maç Yayınları",Harold Mayot - Thanasi Kokkinakis
+https://andro.2385437.xyz/checklist/androstreamlivech38813723.m3u8
+#EXTINF:-1 tvg-name="Nikolay Kalinichenko 1960 - Vladimir Ivenin" group-title="Maç Yayınları",Nikolay Kalinichenko 1960 - Vladimir Ivenin
+https://andro.2385437.xyz/checklist/androstreamlivech19406700.m3u8
+#EXTINF:-1 tvg-name="Clara Burel - Jenny Lim" group-title="Maç Yayınları",Clara Burel - Jenny Lim
+https://andro.2385437.xyz/checklist/androstreamlivech38813741.m3u8
+#EXTINF:-1 tvg-name="Viktorija Golubic - Sofia Kenin" group-title="Maç Yayınları",Viktorija Golubic - Sofia Kenin
+https://andro.2385437.xyz/checklist/androstreamlivech38813763.m3u8
+#EXTINF:-1 tvg-name="Kamil Majchrzak - Alex de Minaur" group-title="Maç Yayınları",Kamil Majchrzak - Alex de Minaur
+https://andro.2385437.xyz/checklist/androstreamlivech38813579.m3u8
+#EXTINF:-1 tvg-name="Mattia Bellucci - Alex Bolt" group-title="Maç Yayınları",Mattia Bellucci - Alex Bolt
+https://andro.2385437.xyz/checklist/androstreamlivech38813693.m3u8
+#EXTINF:-1 tvg-name="Oriol Roca Batalla - Giulio Perego" group-title="Maç Yayınları",Oriol Roca Batalla - Giulio Perego
+https://andro.2385437.xyz/checklist/androstreamlivech38813621.m3u8
+#EXTINF:-1 tvg-name="Donna Vekic - Emma Raducanu" group-title="Maç Yayınları",Donna Vekic - Emma Raducanu
+https://andro.2385437.xyz/checklist/androstreamlivech38813543.m3u8
+#EXTINF:-1 tvg-name="Rinky Hijikata - Marcos Giron" group-title="Maç Yayınları",Rinky Hijikata - Marcos Giron
+https://andro.2385437.xyz/checklist/androstreamlivech38813607.m3u8
+#EXTINF:-1 tvg-name="Monika Gospodinova - Ana Cristiana Mocanu" group-title="Maç Yayınları",Monika Gospodinova - Ana Cristiana Mocanu
+https://andro.2385437.xyz/checklist/androstreamlivech38813807.m3u8
+#EXTINF:-1 tvg-name="Alan Wazny - Denis Yevseyev" group-title="Maç Yayınları",Alan Wazny - Denis Yevseyev
+https://andro.2385437.xyz/checklist/androstreamlivech38813677.m3u8
+#EXTINF:-1 tvg-name="Rio Noguchi - Paul Jubb" group-title="Maç Yayınları",Rio Noguchi - Paul Jubb
+https://andro.2385437.xyz/checklist/androstreamlivech38813883.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BeIN Sports 1
 https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 2" group-title="BeinSports",BeIN Sports 2
