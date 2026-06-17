@@ -839,13 +839,13 @@ http://live02.rfi.fr/rfiafrique-96k.mp3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://icecast.radiofrance.fr/franceculture-hifi.aac
 
-#EXTINF:-1 tvg-id="France_9" tvg-name="France Inter" tvg-logo="" group-title="France",France Inter
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://direct.franceinter.fr/live/franceinter-midfi.mp3
-
-#EXTINF:-1 tvg-id="France_10" tvg-name="RTL" tvg-logo="" group-title="France",RTL
+#EXTINF:-1 tvg-id="France_9" tvg-name="RTL" tvg-logo="" group-title="France",RTL
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://streaming.radio.rtl.fr/rtl-1-44-128
+
+#EXTINF:-1 tvg-id="France_10" tvg-name="France Inter" tvg-logo="" group-title="France",France Inter
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://direct.franceinter.fr/live/franceinter-midfi.mp3
 
 #EXTINF:-1 tvg-id="France_11" tvg-name="Skyrock" tvg-logo="https://play-lh.googleusercontent.com/dPiQ01OUKZVfRZUbbb-EVK5g9miS_K-xrxHgmBbynGG-GQ53yt3GzFKr0zUTnb-xswQ=s200-rw" group-title="France",Skyrock
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -3506,13 +3506,13 @@ http://stream.techno.fm/radio.mp3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://64.95.243.43:8002/listen.m3u?sid=1
 
-#EXTINF:-1 tvg-id="The United Kingdom Of Great Britain And Northern Ireland_38" tvg-name="LBC London (London stream) MP3" tvg-logo="http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png" group-title="The United Kingdom Of Great Britain And Northern Ireland",LBC London (London stream) MP3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://media-ice.musicradio.com/LBCLondonMP3Low
-
-#EXTINF:-1 tvg-id="The United Kingdom Of Great Britain And Northern Ireland_39" tvg-name="BBC Radio 4 (128k)" tvg-logo="https://cdn-radiotime-logos.tunein.com/s25419q.png" group-title="The United Kingdom Of Great Britain And Northern Ireland",BBC Radio 4 (128k)
+#EXTINF:-1 tvg-id="The United Kingdom Of Great Britain And Northern Ireland_38" tvg-name="BBC Radio 4 (128k)" tvg-logo="https://cdn-radiotime-logos.tunein.com/s25419q.png" group-title="The United Kingdom Of Great Britain And Northern Ireland",BBC Radio 4 (128k)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-id="The United Kingdom Of Great Britain And Northern Ireland_39" tvg-name="LBC London (London stream) MP3" tvg-logo="http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png" group-title="The United Kingdom Of Great Britain And Northern Ireland",LBC London (London stream) MP3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://media-ice.musicradio.com/LBCLondonMP3Low
 
 #EXTINF:-1 tvg-id="The United Kingdom Of Great Britain And Northern Ireland_40" tvg-name="1Mix Radio Trance" tvg-logo="http://www.1mix.co.uk/favicon.ico" group-title="The United Kingdom Of Great Britain And Northern Ireland",1Mix Radio Trance
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
