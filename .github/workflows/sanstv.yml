@@ -33,6 +33,11 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
+      - name: Güncel Kodları Çek (Pull)
+        run: |
+          # Python betiği çalışmadan önce temiz dizinde pull yapıyoruz
+          git pull --rebase origin main
+
       - name: M3U Oluştur
         run: python sanstv.py
 
@@ -40,15 +45,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Uzaktaki değişikliklerle çakışmayı önlemek için pull rebase yapıyoruz
-          git pull --rebase origin main
-          
-          # Dosyayı ekle
+          # Değişen dosyayı Git'e ekle
           git add karsilasmalar5.m3u
           
-          # Değişiklik varsa commit yap
+          # Değişiklik varsa commit yap ve pushla
           if git diff --staged --quiet; then
-            echo "Herhangi bir değişiklik bulunamadı."
+            echo "Herhangi bir değişiklik bulunamadı, push yapılmıyor."
           else
             git commit -m "Auto-update: karsilasmalar5.m3u $(date +'%Y-%m-%d %H:%M:%S')"
             git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} main
