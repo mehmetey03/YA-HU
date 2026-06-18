@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="51310" tvg-name="Canlitv" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 1",Canlitv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://example.com/?id=canlitv.m3u8
 #EXTINF:-1 tvg-id="51309" tvg-name="Бэн ТВ" tvg-logo="https://img.catcast.tv/uploads/16062026/logos/51309-6a316fee71b75.png" group-title="Sayfa 1",Бэн ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
@@ -11,10 +15,6 @@ https://example.com/?id=channel-7jr-france.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=7junior-global.m3u8
-#EXTINF:-1 tvg-id="51306" tvg-name="Linet" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 1",Linet
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referer=https://catcast.tv/
-https://example.com/?id=linet.m3u8
 #EXTINF:-1 tvg-id="51305" tvg-name="ГРАЖДАНСКОЕ ТВ" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 1",ГРАЖДАНСКОЕ ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
