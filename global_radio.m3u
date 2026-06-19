@@ -847,13 +847,13 @@ http://live02.rfi.fr/rfiafrique-96k.mp3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://icecast.radiofrance.fr/franceculture-hifi.aac
 
-#EXTINF:-1 tvg-id="France_9" tvg-name="France Inter" tvg-logo="" group-title="France",France Inter
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://direct.franceinter.fr/live/franceinter-midfi.mp3
-
-#EXTINF:-1 tvg-id="France_10" tvg-name="RTL" tvg-logo="" group-title="France",RTL
+#EXTINF:-1 tvg-id="France_9" tvg-name="RTL" tvg-logo="" group-title="France",RTL
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://streaming.radio.rtl.fr/rtl-1-44-128
+
+#EXTINF:-1 tvg-id="France_10" tvg-name="France Inter" tvg-logo="" group-title="France",France Inter
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://direct.franceinter.fr/live/franceinter-midfi.mp3
 
 #EXTINF:-1 tvg-id="France_11" tvg-name="Skyrock" tvg-logo="https://play-lh.googleusercontent.com/dPiQ01OUKZVfRZUbbb-EVK5g9miS_K-xrxHgmBbynGG-GQ53yt3GzFKr0zUTnb-xswQ=s200-rw" group-title="France",Skyrock
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1210,13 +1210,13 @@ https://trance-high.rautemusik.fm/?ref=radiobrowser
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://0n-90s.radionetz.de/0n-90s.mp3
 
-#EXTINF:-1 tvg-id="Germany_42" tvg-name="Radio Arabella München" tvg-logo="https://www.radioarabella.de/storage/thumbs/192x192/r:1658501906/788381.png" group-title="Germany",Radio Arabella München
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://rs26.stream24.net/stream?ref=radioarabella.de
-
-#EXTINF:-1 tvg-id="Germany_43" tvg-name="80s80s Radio" tvg-logo="https://upload.80s80s.de/production/static/1697296555757/icons/icon_512.ewwAEi8A30w.png" group-title="Germany",80s80s Radio
+#EXTINF:-1 tvg-id="Germany_42" tvg-name="80s80s Radio" tvg-logo="https://upload.80s80s.de/production/static/1697296555757/icons/icon_512.ewwAEi8A30w.png" group-title="Germany",80s80s Radio
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://streams.80s80s.de/web/mp3-192/play.m3u
+
+#EXTINF:-1 tvg-id="Germany_43" tvg-name="Radio Arabella München" tvg-logo="https://www.radioarabella.de/storage/thumbs/192x192/r:1658501906/788381.png" group-title="Germany",Radio Arabella München
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://rs26.stream24.net/stream?ref=radioarabella.de
 
 #EXTINF:-1 tvg-id="Germany_44" tvg-name="Sunshine Live - Lounge" tvg-logo="" group-title="Germany",Sunshine Live - Lounge
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1262,13 +1262,13 @@ https://0n-chillout.radionetz.de/0n-chillout.aac
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_hh.m3u
 
-#EXTINF:-1 tvg-id="Germany_55" tvg-name="RADIO BOB! BOBs Alternative Rock" tvg-logo="" group-title="Germany",RADIO BOB! BOBs Alternative Rock
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://streams.radiobob.de/bob-alternative/mp3-192/streams.radiobob.de/
-
-#EXTINF:-1 tvg-id="Germany_56" tvg-name="NDR Info (Schleswig-Holstein)" tvg-logo="http://www.ndr.de/favicon.ico" group-title="Germany",NDR Info (Schleswig-Holstein)
+#EXTINF:-1 tvg-id="Germany_55" tvg-name="NDR Info (Schleswig-Holstein)" tvg-logo="http://www.ndr.de/favicon.ico" group-title="Germany",NDR Info (Schleswig-Holstein)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_sh.m3u
+
+#EXTINF:-1 tvg-id="Germany_56" tvg-name="RADIO BOB! BOBs Alternative Rock" tvg-logo="" group-title="Germany",RADIO BOB! BOBs Alternative Rock
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://streams.radiobob.de/bob-alternative/mp3-192/streams.radiobob.de/
 
 #EXTINF:-1 tvg-id="Germany_57" tvg-name="80s80s Love" tvg-logo="" group-title="Germany",80s80s Love
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1297,10 +1297,6 @@ http://icepool.silvacast.com/RADIOPALOMA.mp3
 #EXTINF:-1 tvg-id="Germany_63" tvg-name="NDR 2" tvg-logo="https://www.ndr.de//apple-touch-icon-57x57.png" group-title="Germany",NDR 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://www.ndr.de/resources/metadaten/audio_ssl/m3u/ndr2.m3u
-
-#EXTINF:-1 tvg-id="Germany_64" tvg-name="FluxFM" tvg-logo="https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="Germany",FluxFM
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://streams.fluxfm.de/live/mp3-320/audio/
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ghana",Ghana
 #EXTGRP:Ghana
@@ -1371,6 +1367,10 @@ http://derti.live24.gr/derty1000
 #EXTINF:-1 tvg-id="Greece_14" tvg-name="Off Radio - Athens" tvg-logo="https://www.offradio.gr/wp-content/uploads/2020/09/cropped-site-icon-180x180.png" group-title="Greece",Off Radio - Athens
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://s3.yesstreaming.net:2199/tunein/offradio.m3u
+
+#EXTINF:-1 tvg-id="Greece_15" tvg-name="Laikos FM" tvg-logo="https://www.laikos.gr/templates/bt_medical/favicon.ico" group-title="Greece",Laikos FM
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://netradio.live24.gr/laikos876
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guatemala",Guatemala
 #EXTGRP:Guatemala
@@ -3495,13 +3495,13 @@ http://radio.talksport.com/stream2?awparams=platform:ts-web&amsparams=playerid:t
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_afrique_radio.m3u8
 
-#EXTINF:-1 tvg-id="The United Kingdom Of Great Britain And Northern Ireland_36" tvg-name="Techno.FM" tvg-logo="https://techno.fm/favicon.ico" group-title="The United Kingdom Of Great Britain And Northern Ireland",Techno.FM
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://stream.techno.fm/radio.mp3
-
-#EXTINF:-1 tvg-id="The United Kingdom Of Great Britain And Northern Ireland_37" tvg-name="BEST SMOOTH JAZZ - UK" tvg-logo="" group-title="The United Kingdom Of Great Britain And Northern Ireland",BEST SMOOTH JAZZ - UK
+#EXTINF:-1 tvg-id="The United Kingdom Of Great Britain And Northern Ireland_36" tvg-name="BEST SMOOTH JAZZ - UK" tvg-logo="" group-title="The United Kingdom Of Great Britain And Northern Ireland",BEST SMOOTH JAZZ - UK
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://64.95.243.43:8002/listen.m3u?sid=1
+
+#EXTINF:-1 tvg-id="The United Kingdom Of Great Britain And Northern Ireland_37" tvg-name="Techno.FM" tvg-logo="https://techno.fm/favicon.ico" group-title="The United Kingdom Of Great Britain And Northern Ireland",Techno.FM
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://stream.techno.fm/radio.mp3
 
 #EXTINF:-1 tvg-id="The United Kingdom Of Great Britain And Northern Ireland_38" tvg-name="BBC Radio 4 (128k)" tvg-logo="https://cdn-radiotime-logos.tunein.com/s25419q.png" group-title="The United Kingdom Of Great Britain And Northern Ireland",BBC Radio 4 (128k)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -3885,13 +3885,13 @@ http://nap.casthost.net:8793/stream
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://stream3.megarockradio.net:80/
 
-#EXTINF:-1 tvg-id="The United States Of America_87" tvg-name="2000 FM - Country" tvg-logo="http://2000fm.net/images/logo.png" group-title="The United States Of America",2000 FM - Country
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://bigrradio.cdnstream1.com/5103_128
-
-#EXTINF:-1 tvg-id="The United States Of America_88" tvg-name="MSNBC" tvg-logo="https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/msnbc/all-other-sizes-PNG.ico/favicon-96x96.png" group-title="The United States Of America",MSNBC
+#EXTINF:-1 tvg-id="The United States Of America_87" tvg-name="MSNBC" tvg-logo="https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/msnbc/all-other-sizes-PNG.ico/favicon-96x96.png" group-title="The United States Of America",MSNBC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://tunein.cdnstream1.com/3511_96.mp3
+
+#EXTINF:-1 tvg-id="The United States Of America_88" tvg-name="2000 FM - Country" tvg-logo="http://2000fm.net/images/logo.png" group-title="The United States Of America",2000 FM - Country
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://bigrradio.cdnstream1.com/5103_128
 
 #EXTINF:-1 tvg-id="The United States Of America_89" tvg-name="Today's Hot Country" tvg-logo="https://www.todayshotcountry.com/wp-content/uploads/2016/10/cropped-siteicon-180x180.png" group-title="The United States Of America",Today's Hot Country
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
