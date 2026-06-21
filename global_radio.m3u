@@ -1262,13 +1262,13 @@ https://0n-chillout.radionetz.de/0n-chillout.aac
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_hh.m3u
 
-#EXTINF:-1 tvg-id="Germany_55" tvg-name="RADIO BOB! BOBs Alternative Rock" tvg-logo="" group-title="Germany",RADIO BOB! BOBs Alternative Rock
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://streams.radiobob.de/bob-alternative/mp3-192/streams.radiobob.de/
-
-#EXTINF:-1 tvg-id="Germany_56" tvg-name="NDR Info (Schleswig-Holstein)" tvg-logo="http://www.ndr.de/favicon.ico" group-title="Germany",NDR Info (Schleswig-Holstein)
+#EXTINF:-1 tvg-id="Germany_55" tvg-name="NDR Info (Schleswig-Holstein)" tvg-logo="http://www.ndr.de/favicon.ico" group-title="Germany",NDR Info (Schleswig-Holstein)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_sh.m3u
+
+#EXTINF:-1 tvg-id="Germany_56" tvg-name="RADIO BOB! BOBs Alternative Rock" tvg-logo="" group-title="Germany",RADIO BOB! BOBs Alternative Rock
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://streams.radiobob.de/bob-alternative/mp3-192/streams.radiobob.de/
 
 #EXTINF:-1 tvg-id="Germany_57" tvg-name="80s80s Love" tvg-logo="" group-title="Germany",80s80s Love
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -3407,13 +3407,13 @@ http://media-ice.musicradio.com/LBCUKMP3Low
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://media-ssl.musicradio.com/Heart70sMP3
 
-#EXTINF:-1 tvg-id="The United Kingdom Of Great Britain And Northern Ireland_14" tvg-name="talkRADIO" tvg-logo="https://cdn-radiotime-logos.tunein.com/s265666q.png" group-title="The United Kingdom Of Great Britain And Northern Ireland",talkRADIO
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://radio.talkradio.co.uk/stream
-
-#EXTINF:-1 tvg-id="The United Kingdom Of Great Britain And Northern Ireland_15" tvg-name="Gold" tvg-logo="https://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png" group-title="The United Kingdom Of Great Britain And Northern Ireland",Gold
+#EXTINF:-1 tvg-id="The United Kingdom Of Great Britain And Northern Ireland_14" tvg-name="Gold" tvg-logo="https://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png" group-title="The United Kingdom Of Great Britain And Northern Ireland",Gold
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://media-ssl.musicradio.com/GoldMP3
+
+#EXTINF:-1 tvg-id="The United Kingdom Of Great Britain And Northern Ireland_15" tvg-name="talkRADIO" tvg-logo="https://cdn-radiotime-logos.tunein.com/s265666q.png" group-title="The United Kingdom Of Great Britain And Northern Ireland",talkRADIO
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://radio.talkradio.co.uk/stream
 
 #EXTINF:-1 tvg-id="The United Kingdom Of Great Britain And Northern Ireland_16" tvg-name="BBC World Service" tvg-logo="https://rmp.files.bbci.co.uk/rmp-shared-assets/1.4.0/img/network-logos/national/bbc_world_service_colour.svg" group-title="The United Kingdom Of Great Britain And Northern Ireland",BBC World Service
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -3801,13 +3801,13 @@ https://www.181.fm/stream/pls/181-kickincountry.m3u
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc?source=fnr.web
 
-#EXTINF:-1 tvg-id="The United States Of America_66" tvg-name="SomaFM Metal Detector (128k AAC)" tvg-logo="https://somafm.com/img3/metal-400.png" group-title="The United States Of America",SomaFM Metal Detector (128k AAC)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-https://somafm.com/metal130.m3u
-
-#EXTINF:-1 tvg-id="The United States Of America_67" tvg-name="Nostalgie New York" tvg-logo="https://demigod-assets.sgp1.cdn.digitaloceanspaces.com/landingpages/fatcai/faviconcai.webp" group-title="The United States Of America",Nostalgie New York
+#EXTINF:-1 tvg-id="The United States Of America_66" tvg-name="Nostalgie New York" tvg-logo="https://demigod-assets.sgp1.cdn.digitaloceanspaces.com/landingpages/fatcai/faviconcai.webp" group-title="The United States Of America",Nostalgie New York
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://c32.radioboss.fm:8139/stream
+
+#EXTINF:-1 tvg-id="The United States Of America_67" tvg-name="SomaFM Metal Detector (128k AAC)" tvg-logo="https://somafm.com/img3/metal-400.png" group-title="The United States Of America",SomaFM Metal Detector (128k AAC)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+https://somafm.com/metal130.m3u
 
 #EXTINF:-1 tvg-id="The United States Of America_68" tvg-name="metal rock radio" tvg-logo="" group-title="The United States Of America",metal rock radio
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
