@@ -1,24 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/uruguay.png" group-title="CANLI MAÇLAR - FIFA 2026 Dünya Kupasi",Uruguay - Yeşil Burun Adaları [01:00]
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/fransa.png" group-title="CANLI MAÇLAR - FIFA 2026 Dünya Kupasi",Fransa - Irak [00:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/fransa.png | https://patronsports2.cfd/img/logos/irak-u23.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/norvec.png" group-title="CANLI MAÇLAR - FIFA 2026 Dünya Kupasi",Norveç - Senegal [03:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/uruguay.png | https://patronsports2.cfd/img/logos/yesilburunadayları.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/newzealand.png" group-title="CANLI MAÇLAR - FIFA 2026 Dünya Kupasi",Yeni Zelanda - Mısır [04:00]
+# İki logo: https://patronsports2.cfd/img/logos/norvec.png | https://patronsports2.cfd/img/logos/senegal.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/urdun-u23.png" group-title="CANLI MAÇLAR - FIFA 2026 Dünya Kupasi",Ürdün - Cezayir [06:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/newzealand.png | https://patronsports2.cfd/img/logos/misir.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/arjantin.png" group-title="CANLI MAÇLAR - FIFA 2026 Dünya Kupasi",Arjantin - Avusturya [20:00]
+# İki logo: https://patronsports2.cfd/img/logos/urdun-u23.png | https://patronsports2.cfd/img/logos/cezayir.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/portekiz.png" group-title="CANLI MAÇLAR - FIFA 2026 Dünya Kupasi",Portekiz - Özbekistan [20:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/arjantin.png | https://patronsports2.cfd/img/logos/avusturya.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/barcelona.png" group-title="CANLI MAÇLAR - İspanya Basketbol Ligi Play-Off",Barcelona - Valencia Basket [21:00]
+# İki logo: https://patronsports2.cfd/img/logos/portekiz.png | https://patronsports2.cfd/img/logos/ozbekistan-u23.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/ingiltere.png" group-title="CANLI MAÇLAR - FIFA 2026 Dünya Kupasi",İngiltere - Gana [23:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://2i4.d72577a9dd0ec71.cfd/smarts/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/barcelona.png | https://patronsports2.cfd/img/logos/valencia.png
+https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/ingiltere.png | https://patronsports2.cfd/img/logos/gana.png
 #EXTINF:-1 tvg-logo="https://patronsports1.cfd/img/beinsports1.png" group-title="7/24 KANALLAR",BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
