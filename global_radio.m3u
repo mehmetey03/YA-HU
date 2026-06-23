@@ -1262,17 +1262,17 @@ https://0n-chillout.radionetz.de/0n-chillout.aac
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_hh.m3u
 
-#EXTINF:-1 tvg-id="Germany_55" tvg-name="NDR Info (Schleswig-Holstein)" tvg-logo="http://www.ndr.de/favicon.ico" group-title="Germany",NDR Info (Schleswig-Holstein)
+#EXTINF:-1 tvg-id="Germany_55" tvg-name="80s80s Love" tvg-logo="" group-title="Germany",80s80s Love
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://streams.80s80s.de/love/mp3-192/streams.80s80s.de/
+
+#EXTINF:-1 tvg-id="Germany_56" tvg-name="NDR Info (Schleswig-Holstein)" tvg-logo="http://www.ndr.de/favicon.ico" group-title="Germany",NDR Info (Schleswig-Holstein)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_sh.m3u
 
-#EXTINF:-1 tvg-id="Germany_56" tvg-name="RADIO BOB! BOBs Alternative Rock" tvg-logo="" group-title="Germany",RADIO BOB! BOBs Alternative Rock
+#EXTINF:-1 tvg-id="Germany_57" tvg-name="RADIO BOB! BOBs Alternative Rock" tvg-logo="" group-title="Germany",RADIO BOB! BOBs Alternative Rock
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://streams.radiobob.de/bob-alternative/mp3-192/streams.radiobob.de/
-
-#EXTINF:-1 tvg-id="Germany_57" tvg-name="80s80s Love" tvg-logo="" group-title="Germany",80s80s Love
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://streams.80s80s.de/love/mp3-192/streams.80s80s.de/
 
 #EXTINF:-1 tvg-id="Germany_58" tvg-name="98.8 Kiss FM" tvg-logo="https://upload.kissfm.de/production/static/1699276434696/icons/icon_64.be8y2280000.png" group-title="Germany",98.8 Kiss FM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1599,13 +1599,13 @@ https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464k
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://stream.zenolive.com/2vghnwshsqzuv.aac
 
-#EXTINF:-1 tvg-id="India_33" tvg-name="radioBollyFM" tvg-logo="" group-title="India",radioBollyFM
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://stream.zeno.fm/zu59ykebs2zuv
-
-#EXTINF:-1 tvg-id="India_34" tvg-name="Vividh Bharati" tvg-logo="https://onlineradiohub.com/wp-content/uploads/2023/02/vividh-bharati.jpg" group-title="India",Vividh Bharati
+#EXTINF:-1 tvg-id="India_33" tvg-name="Vividh Bharati" tvg-logo="https://onlineradiohub.com/wp-content/uploads/2023/02/vividh-bharati.jpg" group-title="India",Vividh Bharati
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="India_34" tvg-name="radioBollyFM" tvg-logo="" group-title="India",radioBollyFM
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://stream.zeno.fm/zu59ykebs2zuv
 
 #EXTINF:-1 tvg-id="India_35" tvg-name="Red FM 93.5" tvg-logo="https://radiobarfi.com/wp-content/uploads/2024/04/Red-FM-93.5-Live-Online.png.webp" group-title="India",Red FM 93.5
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -3601,13 +3601,13 @@ http://relax.stream.publicradio.org/relax.mp3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://listen.181fm.com/181-oldschool_128k.mp3
 
-#EXTINF:-1 tvg-id="The United States Of America_16" tvg-name=".977 Country" tvg-logo="" group-title="The United States Of America",.977 Country
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-https://playerservices.streamtheworld.com/pls/977_COUNTRY.m3u
-
-#EXTINF:-1 tvg-id="The United States Of America_17" tvg-name=".977 Hitz" tvg-logo="" group-title="The United States Of America",.977 Hitz
+#EXTINF:-1 tvg-id="The United States Of America_16" tvg-name=".977 Hitz" tvg-logo="" group-title="The United States Of America",.977 Hitz
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://playerservices.streamtheworld.com/pls/977_HITS.m3u
+
+#EXTINF:-1 tvg-id="The United States Of America_17" tvg-name=".977 Country" tvg-logo="" group-title="The United States Of America",.977 Country
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+https://playerservices.streamtheworld.com/pls/977_COUNTRY.m3u
 
 #EXTINF:-1 tvg-id="The United States Of America_18" tvg-name="Ambient Sleeping Pill" tvg-logo="" group-title="The United States Of America",Ambient Sleeping Pill
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -3829,13 +3829,13 @@ http://www.smoothjazz247.com/smoothjazz24-7.m3u
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://hi5.1980s.fm/;stream.mp3
 
-#EXTINF:-1 tvg-id="The United States Of America_73" tvg-name="Frisky Deep" tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.png" group-title="The United States Of America",Frisky Deep
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://deep.friskyradio.com/friskydeep_aachi
-
-#EXTINF:-1 tvg-id="The United States Of America_74" tvg-name="181.FM - True Blues" tvg-logo="http://www.181.fm/favicon.ico" group-title="The United States Of America",181.FM - True Blues
+#EXTINF:-1 tvg-id="The United States Of America_73" tvg-name="181.FM - True Blues" tvg-logo="http://www.181.fm/favicon.ico" group-title="The United States Of America",181.FM - True Blues
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://www.181.fm/stream/pls/181-blues.m3u
+
+#EXTINF:-1 tvg-id="The United States Of America_74" tvg-name="Frisky Deep" tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.png" group-title="The United States Of America",Frisky Deep
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://deep.friskyradio.com/friskydeep_aachi
 
 #EXTINF:-1 tvg-id="The United States Of America_75" tvg-name="Hot 108 JAMZ" tvg-logo="" group-title="The United States Of America",Hot 108 JAMZ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
