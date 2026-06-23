@@ -1,29 +1,84 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/fransa.png" group-title="CANLI MAÇLAR - FIFA 2026 Dünya Kupasi",Fransa - Irak [00:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/fransa.png | https://patronsports2.cfd/img/logos/irak-u23.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/norvec.png" group-title="CANLI MAÇLAR - FIFA 2026 Dünya Kupasi",Norveç - Senegal [03:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/norvec.png | https://patronsports2.cfd/img/logos/senegal.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/urdun-u23.png" group-title="CANLI MAÇLAR - FIFA 2026 Dünya Kupasi",Ürdün - Cezayir [06:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/urdun-u23.png | https://patronsports2.cfd/img/logos/cezayir.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/portekiz.png" group-title="CANLI MAÇLAR - FIFA 2026 Dünya Kupasi",Portekiz - Özbekistan [20:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/portekiz.png | https://patronsports2.cfd/img/logos/ozbekistan-u23.png
 #EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/ingiltere.png" group-title="CANLI MAÇLAR - FIFA 2026 Dünya Kupasi",İngiltere - Gana [23:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
 # İki logo: https://patronsports2.cfd/img/logos/ingiltere.png | https://patronsports2.cfd/img/logos/gana.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/panama.png" group-title="CANLI MAÇLAR - FIFA 2026 Dünya Kupasi",Panama - Hırvatistan [02:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/panama.png | https://patronsports2.cfd/img/logos/hirvatistan.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/kolombiya.png" group-title="CANLI MAÇLAR - FIFA 2026 Dünya Kupasi",Kolombiya - Demokratik Kongo [05:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/kolombiya.png | https://patronsports2.cfd/img/logos/d-kongo.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/isvicre.png" group-title="CANLI MAÇLAR - FIFA 2026 Dünya Kupasi",İsviçre - Kanada [22:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/isvicre.png | https://patronsports2.cfd/img/logos/kanada.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/bosnahersek.png" group-title="CANLI MAÇLAR - FIFA 2026 Dünya Kupasi",Bosna Hersek - Katar [22:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/bosnahersek.png | https://patronsports2.cfd/img/logos/katar-u23.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/nba.png" group-title="CANLI MAÇLAR - NBA Draft",NBA Draft - Gün 1 [03:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/nba.png | https://patronsports2.cfd/img/logos/nba.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/tenis.png" group-title="CANLI MAÇLAR - WTA Eastbourne",J.Maneiro - M.Keys [13:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/bm1/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/tenis.png | https://patronsports2.cfd/img/logos/tenis.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/bulgaristan.png" group-title="CANLI MAÇLAR - Voleybol Erkekler Milletler Ligi",Bulgaristan - İtalya [14:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/bulgaristan.png | https://patronsports2.cfd/img/logos/italya.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/cin.png" group-title="CANLI MAÇLAR - Voleybol Erkekler Milletler Ligi",Çin - Türkiye [14:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/cin.png | https://patronsports2.cfd/img/logos/turkiye.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/tenis.png" group-title="CANLI MAÇLAR - WTA Eastbourne",J.Ostapenko - P.Udvardy [15:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/bm1/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/tenis.png | https://patronsports2.cfd/img/logos/tenis.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/tenis.png" group-title="CANLI MAÇLAR - WTA Bad Homburg",I.Swiatek - E.Navarro [16:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/bm2/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/tenis.png | https://patronsports2.cfd/img/logos/tenis.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/tenis.png" group-title="CANLI MAÇLAR - WTA Eastbourne",Zeynep Sönmez - S.Bejlek [16:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/bm1/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/tenis.png | https://patronsports2.cfd/img/logos/tenis.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/arjantin.png" group-title="CANLI MAÇLAR - Voleybol Erkekler Milletler Ligi",Arjantin - Almanya [17:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/arjantin.png | https://patronsports2.cfd/img/logos/almanya.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/lokomotivkuban.png" group-title="CANLI MAÇLAR - Voleybol Erkekler Milletler Ligi",Küba - ABD [18:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/lokomotivkuban.png | https://patronsports2.cfd/img/logos/abd.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/barcelona.png" group-title="CANLI MAÇLAR - İspanya Basketbol Ligi Play-Off",Barcelona - Valencia Basket [21:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/sms2/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/barcelona.png | https://patronsports2.cfd/img/logos/valencia.png
+#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/polonya.png" group-title="CANLI MAÇLAR - Voleybol Erkekler Milletler Ligi",Polonya - Belçika [21:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
+https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
+# İki logo: https://patronsports2.cfd/img/logos/polonya.png | https://patronsports2.cfd/img/logos/belcika.png
 #EXTINF:-1 tvg-logo="https://patronsports1.cfd/img/beinsports1.png" group-title="7/24 KANALLAR",BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
