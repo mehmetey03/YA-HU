@@ -401,6 +401,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://8923.brasilstream.com.br/stream
 
+#EXTINF:-1 tvg-id="Brazil_17" tvg-name="Smooth Jazz Lounge" tvg-logo="https://www.vip-radios.fm/favicon.ico" group-title="Brazil",Smooth Jazz Lounge
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+https://radio4.vip-radios.fm:18060/stream-128kmp3-SmoothJazzLounge
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",Bulgaria
 #EXTGRP:Bulgaria
 
@@ -503,6 +507,10 @@ https://us9.maindigitalstream.com/ssl/radiosol
 #EXTINF:-1 tvg-id="Chile_2" tvg-name="De los Recuerdos" tvg-logo="https://www.fmdelosrecuerdos.cl/wp-content/uploads/2023/02/cropped-fav-recuerdos-180x180.png" group-title="Chile",De los Recuerdos
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://sonando.us.digitalproserver.com/fmdelosrecuerdos.aac
+
+#EXTINF:-1 tvg-id="Chile_3" tvg-name="BioBio Chile" tvg-logo="https://www.biobiochile.cl/assets/biobiochile/img/icons/apple-touch-icon-120x120.png" group-title="Chile",BioBio Chile
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+https://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="China",China
 #EXTGRP:China
@@ -847,13 +855,13 @@ http://live02.rfi.fr/rfimonde-64.mp3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://live02.rfi.fr/rfiafrique-96k.mp3
 
-#EXTINF:-1 tvg-id="France_8" tvg-name="France Culture" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/France_Culture_-_2008.svg/1024px-France_Culture_-_2008.svg.png" group-title="France",France Culture
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://icecast.radiofrance.fr/franceculture-hifi.aac
-
-#EXTINF:-1 tvg-id="France_9" tvg-name="France Inter" tvg-logo="" group-title="France",France Inter
+#EXTINF:-1 tvg-id="France_8" tvg-name="France Inter" tvg-logo="" group-title="France",France Inter
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://direct.franceinter.fr/live/franceinter-midfi.mp3
+
+#EXTINF:-1 tvg-id="France_9" tvg-name="France Culture" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/France_Culture_-_2008.svg/1024px-France_Culture_-_2008.svg.png" group-title="France",France Culture
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://icecast.radiofrance.fr/franceculture-hifi.aac
 
 #EXTINF:-1 tvg-id="France_10" tvg-name="RTL" tvg-logo="" group-title="France",RTL
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1301,13 +1309,6 @@ http://icepool.silvacast.com/RADIOPALOMA.mp3
 #EXTINF:-1 tvg-id="Germany_63" tvg-name="NDR 2" tvg-logo="https://www.ndr.de//apple-touch-icon-57x57.png" group-title="Germany",NDR 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://www.ndr.de/resources/metadaten/audio_ssl/m3u/ndr2.m3u
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ghana",Ghana
-#EXTGRP:Ghana
-
-#EXTINF:-1 tvg-id="Ghana_0" tvg-name="citi fm" tvg-logo="" group-title="Ghana",citi fm
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-https://citi973fm.radioca.st/index.html:80/;stream.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Greece",Greece
 #EXTGRP:Greece
@@ -2879,13 +2880,6 @@ http://stream.zeno.fm/s70bvdgqks8uv
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://live.trusl.com:1180/;
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="State Of Palestine",State Of Palestine
-#EXTGRP:State Of Palestine
-
-#EXTINF:-1 tvg-id="State Of Palestine_0" tvg-name="Quran Radio Station-Nablus" tvg-logo="" group-title="State Of Palestine",Quran Radio Station-Nablus
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://www.quran-radio.org:8002/
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Switzerland",Switzerland
 #EXTGRP:Switzerland
 
@@ -3097,13 +3091,13 @@ http://pub0302.101.ru:8000/stream/pro/aac/64/144?token=eyJ0eXAiOiJKV1QiLCJhbGciO
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://listen.rusongs.ru/ru-mp3-128
 
-#EXTINF:-1 tvg-id="The Russian Federation_6" tvg-name="Ретро FM" tvg-logo="" group-title="The Russian Federation",Ретро FM
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://retroserver.streamr.ru:8043/retro256.mp3
-
-#EXTINF:-1 tvg-id="The Russian Federation_7" tvg-name="DFM RUSSIAN DANCE" tvg-logo="https://dfm.ru/uploads/favicon.ico" group-title="The Russian Federation",DFM RUSSIAN DANCE
+#EXTINF:-1 tvg-id="The Russian Federation_6" tvg-name="DFM RUSSIAN DANCE" tvg-logo="https://dfm.ru/uploads/favicon.ico" group-title="The Russian Federation",DFM RUSSIAN DANCE
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274
+
+#EXTINF:-1 tvg-id="The Russian Federation_7" tvg-name="Ретро FM" tvg-logo="" group-title="The Russian Federation",Ретро FM
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://retroserver.streamr.ru:8043/retro256.mp3
 
 #EXTINF:-1 tvg-id="The Russian Federation_8" tvg-name="Дорожное радио" tvg-logo="https://dorognoe.ru/assets/default/i/fav_114x114.png" group-title="The Russian Federation",Дорожное радио
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -3979,13 +3973,13 @@ http://rtstream.tanitweb.com/rtci
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://qurango.net/radio/tarateel
 
-#EXTINF:-1 tvg-id="Tunisia_14" tvg-name="Radio Tunisie Gafsa" tvg-logo="" group-title="Tunisia",Radio Tunisie Gafsa
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://rtstream.tanitweb.com/gafsa
-
-#EXTINF:-1 tvg-id="Tunisia_15" tvg-name="Mosaique FM Gold" tvg-logo="" group-title="Tunisia",Mosaique FM Gold
+#EXTINF:-1 tvg-id="Tunisia_14" tvg-name="Mosaique FM Gold" tvg-logo="" group-title="Tunisia",Mosaique FM Gold
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://radio.mosaiquefm.net/mosagold
+
+#EXTINF:-1 tvg-id="Tunisia_15" tvg-name="Radio Tunisie Gafsa" tvg-logo="" group-title="Tunisia",Radio Tunisie Gafsa
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://rtstream.tanitweb.com/gafsa
 
 #EXTINF:-1 tvg-id="Tunisia_16" tvg-name="Radio Tunisia Med" tvg-logo="https://www.wix.com/favicon.ico" group-title="Tunisia",Radio Tunisia Med
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
