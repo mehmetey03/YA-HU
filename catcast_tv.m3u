@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="51355" tvg-name="Wilmark" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 1",Wilmark
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://example.com/?id=wilmark.m3u8
+#EXTINF:-1 tvg-id="51354" tvg-name="Buctimai TV" tvg-logo="https://img.catcast.tv/uploads/29062026/logos/51354-6a423f5547845.png" group-title="Sayfa 1",Buctimai TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://example.com/?id=buctimai-tv.m3u8
 #EXTINF:-1 tvg-id="51353" tvg-name="azmuzik" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 1",azmuzik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
@@ -87,11 +95,11 @@ https://example.com/?id=playercizgifilm_obiriks-ve-ast.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=playercinema_butterfly_1.m3u8
-#EXTINF:-1 tvg-id="51325" tvg-name="PlayerCinema_Peaky-Brinders_1" tvg-logo="https://img.catcast.tv/uploads/23062026/logos/51325-6a3a9969327ea.png" group-title="Sayfa 1",PlayerCinema_Peaky-Brinders_1
+#EXTINF:-1 tvg-id="51325" tvg-name="PlayerCinema_Peaky-Brinders_1" tvg-logo="https://img.catcast.tv/uploads/23062026/logos/51325-6a3a9969327ea.png" group-title="Sayfa 2",PlayerCinema_Peaky-Brinders_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=playercinema_peaky-brinders_1.m3u8
-#EXTINF:-1 tvg-id="51324" tvg-name="PlayerCinema_Obiriks-ve-Asteriks" tvg-logo="https://img.catcast.tv/uploads/23062026/logos/51324-6a3a9ac799852.png" group-title="Sayfa 1",PlayerCinema_Obiriks-ve-Asteriks
+#EXTINF:-1 tvg-id="51324" tvg-name="PlayerCinema_Obiriks-ve-Asteriks" tvg-logo="https://img.catcast.tv/uploads/23062026/logos/51324-6a3a9ac799852.png" group-title="Sayfa 2",PlayerCinema_Obiriks-ve-Asteriks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=playercinema_obiriks-ve-asteri.m3u8
@@ -183,11 +191,11 @@ https://example.com/?id=flash-tv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=abtv670727.m3u8
-#EXTINF:-1 tvg-id="51296" tvg-name="Россия протиv zла" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 2",Россия протиv zла
+#EXTINF:-1 tvg-id="51296" tvg-name="Россия протиv zла" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 3",Россия протиv zла
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=россия-протиvzла.m3u8
-#EXTINF:-1 tvg-id="51291" tvg-name="Logi TV Catcast" tvg-logo="https://img.catcast.tv/uploads/11062026/logos/51291-6a2afa504653c.png" group-title="Sayfa 2",Logi TV Catcast
+#EXTINF:-1 tvg-id="51291" tvg-name="Logi TV Catcast" tvg-logo="https://img.catcast.tv/uploads/11062026/logos/51291-6a2afa504653c.png" group-title="Sayfa 3",Logi TV Catcast
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=logitv.m3u8
@@ -279,11 +287,11 @@ https://example.com/?id=loading-southeasterneasterneur.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=x-channel1europe.m3u8
-#EXTINF:-1 tvg-id="51264" tvg-name="X! Channel HD Europe" tvg-logo="https://img.catcast.tv/uploads/06062026/logos/51264-6a249b5955bbf.png" group-title="Sayfa 3",X! Channel HD Europe
+#EXTINF:-1 tvg-id="51264" tvg-name="X! Channel HD Europe" tvg-logo="https://img.catcast.tv/uploads/06062026/logos/51264-6a249b5955bbf.png" group-title="Sayfa 4",X! Channel HD Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=x-channelhdeurope.m3u8
-#EXTINF:-1 tvg-id="51263" tvg-name="X! Channel Europe" tvg-logo="https://img.catcast.tv/uploads/06062026/logos/51263-6a245b6b2e280.png" group-title="Sayfa 3",X! Channel Europe
+#EXTINF:-1 tvg-id="51263" tvg-name="X! Channel Europe" tvg-logo="https://img.catcast.tv/uploads/06062026/logos/51263-6a245b6b2e280.png" group-title="Sayfa 4",X! Channel Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=x-channeleurope.m3u8
@@ -375,11 +383,11 @@ https://example.com/?id=tv10.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=fluxtv.m3u8
-#EXTINF:-1 tvg-id="51236" tvg-name="canadalocal" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 4",canadalocal
+#EXTINF:-1 tvg-id="51236" tvg-name="canadalocal" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 5",canadalocal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=canadalocal.m3u8
-#EXTINF:-1 tvg-id="51234" tvg-name="Nicktoons (India)" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 4",Nicktoons (India)
+#EXTINF:-1 tvg-id="51234" tvg-name="Nicktoons (India)" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 5",Nicktoons (India)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=nicktoons-india.m3u8
@@ -471,11 +479,11 @@ https://example.com/?id=testsvinua.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=nikto-kids.m3u8
-#EXTINF:-1 tvg-id="51208" tvg-name="samcatrplusz" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 5",samcatrplusz
+#EXTINF:-1 tvg-id="51208" tvg-name="samcatrplusz" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 6",samcatrplusz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=samcatrplusz.m3u8
-#EXTINF:-1 tvg-id="51207" tvg-name="ОТВ" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 5",ОТВ
+#EXTINF:-1 tvg-id="51207" tvg-name="ОТВ" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 6",ОТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=отв.m3u8
@@ -567,11 +575,11 @@ https://example.com/?id=н-музтв.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=карен-тв-лосево-лосевотелеком.m3u8
-#EXTINF:-1 tvg-id="51184" tvg-name="ABC3 Poland" tvg-logo="https://img.catcast.tv/uploads/20052026/logos/51184-6a0e6b10b108b.png" group-title="Sayfa 6",ABC3 Poland
+#EXTINF:-1 tvg-id="51184" tvg-name="ABC3 Poland" tvg-logo="https://img.catcast.tv/uploads/20052026/logos/51184-6a0e6b10b108b.png" group-title="Sayfa 7",ABC3 Poland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=abc3-poland.m3u8
-#EXTINF:-1 tvg-id="51183" tvg-name="7Junior Germany" tvg-logo="https://img.catcast.tv/uploads/26062026/logos/51183-6a3e99ad50a8d.png" group-title="Sayfa 6",7Junior Germany
+#EXTINF:-1 tvg-id="51183" tvg-name="7Junior Germany" tvg-logo="https://img.catcast.tv/uploads/26062026/logos/51183-6a3e99ad50a8d.png" group-title="Sayfa 7",7Junior Germany
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=7junior-germany.m3u8
@@ -663,11 +671,11 @@ https://example.com/?id=7junior-cee.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=TVR-Kids-HD.m3u8
-#EXTINF:-1 tvg-id="51159" tvg-name="NIKI Kids Romania" tvg-logo="https://img.catcast.tv/uploads/17052026/logos/51159-6a0a209d47435.png" group-title="Sayfa 7",NIKI Kids Romania
+#EXTINF:-1 tvg-id="51159" tvg-name="NIKI Kids Romania" tvg-logo="https://img.catcast.tv/uploads/17052026/logos/51159-6a0a209d47435.png" group-title="Sayfa 8",NIKI Kids Romania
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=niki-kidsromania.m3u8
-#EXTINF:-1 tvg-id="51158" tvg-name="7Junior Scandinavia" tvg-logo="https://img.catcast.tv/uploads/26062026/logos/51158-6a3e9394e6a9c.png" group-title="Sayfa 7",7Junior Scandinavia
+#EXTINF:-1 tvg-id="51158" tvg-name="7Junior Scandinavia" tvg-logo="https://img.catcast.tv/uploads/26062026/logos/51158-6a3e9394e6a9c.png" group-title="Sayfa 8",7Junior Scandinavia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=7junior-scandinavia.m3u8
@@ -759,11 +767,11 @@ https://example.com/?id=gfngng.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=cartoon-networkru.m3u8
-#EXTINF:-1 tvg-id="51130" tvg-name="Главный Корейский" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 8",Главный Корейский
+#EXTINF:-1 tvg-id="51130" tvg-name="Главный Корейский" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 9",Главный Корейский
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=главный-корейский.m3u8
-#EXTINF:-1 tvg-id="51128" tvg-name="Декартостан 24" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 8",Декартостан 24
+#EXTINF:-1 tvg-id="51128" tvg-name="Декартостан 24" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 9",Декартостан 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=dkrt24.m3u8
@@ -855,11 +863,11 @@ https://example.com/?id=CID_TV_ДЕРЕВНЯ_ДУРАКОВ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=CID_TV_PREMIUM.m3u8
-#EXTINF:-1 tvg-id="51088" tvg-name="Boomerang Kazakhstan" tvg-logo="https://img.catcast.tv/uploads/28042026/logos/51088-69f14cbea57f9.png" group-title="Sayfa 9",Boomerang Kazakhstan
+#EXTINF:-1 tvg-id="51088" tvg-name="Boomerang Kazakhstan" tvg-logo="https://img.catcast.tv/uploads/28042026/logos/51088-69f14cbea57f9.png" group-title="Sayfa 10",Boomerang Kazakhstan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=Boomerang-Kazakhstan.m3u8
-#EXTINF:-1 tvg-id="51086" tvg-name="Cartoon Network Fiji" tvg-logo="https://img.catcast.tv/uploads/27042026/logos/51086-69eff90610a7e.png" group-title="Sayfa 9",Cartoon Network Fiji
+#EXTINF:-1 tvg-id="51086" tvg-name="Cartoon Network Fiji" tvg-logo="https://img.catcast.tv/uploads/27042026/logos/51086-69eff90610a7e.png" group-title="Sayfa 10",Cartoon Network Fiji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=CartoonFiji.m3u8
@@ -951,11 +959,11 @@ https://example.com/?id=jadeshurishow.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=jadeshuriserisi.m3u8
-#EXTINF:-1 tvg-id="51058" tvg-name="Back To The Music 80s" tvg-logo="https://img.catcast.tv/uploads/20062026/logos/51058-6a368169affb1.png" group-title="Sayfa 10",Back To The Music 80s
+#EXTINF:-1 tvg-id="51058" tvg-name="Back To The Music 80s" tvg-logo="https://img.catcast.tv/uploads/20062026/logos/51058-6a368169affb1.png" group-title="Sayfa 11",Back To The Music 80s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=back-tothemusic.m3u8
-#EXTINF:-1 tvg-id="51057" tvg-name="Stvfilmaz" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 10",Stvfilmaz
+#EXTINF:-1 tvg-id="51057" tvg-name="Stvfilmaz" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 11",Stvfilmaz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=stvfilmaz.m3u8
@@ -1047,11 +1055,11 @@ https://example.com/?id=anumee.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=anume_tb.m3u8
-#EXTINF:-1 tvg-id="51031" tvg-name="KNL T TV" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 11",KNL T TV
+#EXTINF:-1 tvg-id="51031" tvg-name="KNL T TV" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 12",KNL T TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=knl-ttv.m3u8
-#EXTINF:-1 tvg-id="51030" tvg-name="MUSIC+" tvg-logo="https://img.catcast.tv/uploads/17042026/logos/51030-69e16399022cf.jpg" group-title="Sayfa 11",MUSIC+
+#EXTINF:-1 tvg-id="51030" tvg-name="MUSIC+" tvg-logo="https://img.catcast.tv/uploads/17042026/logos/51030-69e16399022cf.jpg" group-title="Sayfa 12",MUSIC+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=musicplus.m3u8
@@ -1143,11 +1151,11 @@ https://example.com/?id=zoomoo-latvia.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=animationmax-netherlands.m3u8
-#EXTINF:-1 tvg-id="51005" tvg-name="VH1 UK" tvg-logo="https://img.catcast.tv/uploads/14042026/logos/51005-69de140097cc9.png" group-title="Sayfa 12",VH1 UK
+#EXTINF:-1 tvg-id="51005" tvg-name="VH1 UK" tvg-logo="https://img.catcast.tv/uploads/14042026/logos/51005-69de140097cc9.png" group-title="Sayfa 13",VH1 UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=vh1-uk.m3u8
-#EXTINF:-1 tvg-id="51004" tvg-name="Sprout TV" tvg-logo="https://img.catcast.tv/uploads/13042026/logos/51004-69dd241a7344b.png" group-title="Sayfa 12",Sprout TV
+#EXTINF:-1 tvg-id="51004" tvg-name="Sprout TV" tvg-logo="https://img.catcast.tv/uploads/13042026/logos/51004-69dd241a7344b.png" group-title="Sayfa 13",Sprout TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=sprout-tv.m3u8
@@ -1239,11 +1247,11 @@ https://example.com/?id=loolt.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=nvt-1.m3u8
-#EXTINF:-1 tvg-id="50975" tvg-name="tavasziszel" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 13",tavasziszel
+#EXTINF:-1 tvg-id="50975" tvg-name="tavasziszel" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 14",tavasziszel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=tavasziszel.m3u8
-#EXTINF:-1 tvg-id="50974" tvg-name="Sessiz Ünlü TV" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 13",Sessiz Ünlü TV
+#EXTINF:-1 tvg-id="50974" tvg-name="Sessiz Ünlü TV" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 14",Sessiz Ünlü TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=sessizunlu.m3u8
@@ -1335,11 +1343,11 @@ https://example.com/?id=by-kerimoff-gaydasiz-doyusler.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=f-snema.m3u8
-#EXTINF:-1 tvg-id="50948" tvg-name="PlayerCınema YIRTICI 2" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50948-69cfe05117edd.png" group-title="Sayfa 14",PlayerCınema YIRTICI 2
+#EXTINF:-1 tvg-id="50948" tvg-name="PlayerCınema YIRTICI 2" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50948-69cfe05117edd.png" group-title="Sayfa 15",PlayerCınema YIRTICI 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=playercnema-yirtici2.m3u8
-#EXTINF:-1 tvg-id="50947" tvg-name="PlayerCınema YIRTICI" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50947-69cfdc5610cd1.png" group-title="Sayfa 14",PlayerCınema YIRTICI
+#EXTINF:-1 tvg-id="50947" tvg-name="PlayerCınema YIRTICI" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50947-69cfdc5610cd1.png" group-title="Sayfa 15",PlayerCınema YIRTICI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=playercnema-yirtici.m3u8
@@ -1431,11 +1439,11 @@ https://example.com/?id=izua.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=by-kerimoff-meyxana-tv.m3u8
-#EXTINF:-1 tvg-id="50920" tvg-name="by-kerimoff-Horror" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 15",by-kerimoff-Horror
+#EXTINF:-1 tvg-id="50920" tvg-name="by-kerimoff-Horror" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 16",by-kerimoff-Horror
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=by-kerimoff-horror.m3u8
-#EXTINF:-1 tvg-id="50919" tvg-name="by-kerimoff-animasyon" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 15",by-kerimoff-animasyon
+#EXTINF:-1 tvg-id="50919" tvg-name="by-kerimoff-animasyon" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 16",by-kerimoff-animasyon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=by-kerimoff-animasyon.m3u8
@@ -1527,11 +1535,11 @@ https://example.com/?id=playercinema-hind_filmleri-2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=playercinema-aze_dublaj-5.m3u8
-#EXTINF:-1 tvg-id="50890" tvg-name="mutlucocuk" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 16",mutlucocuk
+#EXTINF:-1 tvg-id="50890" tvg-name="mutlucocuk" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 17",mutlucocuk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=mutlucocuk.m3u8
-#EXTINF:-1 tvg-id="50889" tvg-name="PlayerCinema-Aze_Dublaj-4" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50889-69c69f94437c2.png" group-title="Sayfa 16",PlayerCinema-Aze_Dublaj-4
+#EXTINF:-1 tvg-id="50889" tvg-name="PlayerCinema-Aze_Dublaj-4" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50889-69c69f94437c2.png" group-title="Sayfa 17",PlayerCinema-Aze_Dublaj-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=playercinema-aze_dublaj-4.m3u8
@@ -1623,11 +1631,11 @@ https://example.com/?id=by-kerimoff-retro-filmler-2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=by-kerimoff-azeri-retro-filmle.m3u8
-#EXTINF:-1 tvg-id="50851" tvg-name="By-Kerimoff-Slow Musiqiler" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 17",By-Kerimoff-Slow Musiqiler
+#EXTINF:-1 tvg-id="50851" tvg-name="By-Kerimoff-Slow Musiqiler" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 18",By-Kerimoff-Slow Musiqiler
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=by-kerimoff-slow-musiqiler.m3u8
-#EXTINF:-1 tvg-id="50849" tvg-name="PlayerCizgiFilm TOM ve JERRY" tvg-logo="https://img.catcast.tv/uploads/21032026/logos/50849-69bdb3e603214.png" group-title="Sayfa 17",PlayerCizgiFilm TOM ve JERRY
+#EXTINF:-1 tvg-id="50849" tvg-name="PlayerCizgiFilm TOM ve JERRY" tvg-logo="https://img.catcast.tv/uploads/21032026/logos/50849-69bdb3e603214.png" group-title="Sayfa 18",PlayerCizgiFilm TOM ve JERRY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=playercizgifilm-tomvejerry.m3u8
@@ -1719,11 +1727,11 @@ https://example.com/?id=fcocuk.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=cizgivedizi.m3u8
-#EXTINF:-1 tvg-id="50818" tvg-name="premium_iptv" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 18",premium_iptv
+#EXTINF:-1 tvg-id="50818" tvg-name="premium_iptv" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 19",premium_iptv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=tv65.m3u8
-#EXTINF:-1 tvg-id="50817" tvg-name="yansimasinematv" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 18",yansimasinematv
+#EXTINF:-1 tvg-id="50817" tvg-name="yansimasinematv" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 19",yansimasinematv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=yansinematv.m3u8
@@ -1815,11 +1823,11 @@ https://example.com/?id=telesat1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=filmnow2.m3u8
-#EXTINF:-1 tvg-id="50792" tvg-name="premium-tv" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 19",premium-tv
+#EXTINF:-1 tvg-id="50792" tvg-name="premium-tv" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 20",premium-tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=premium-tv.m3u8
-#EXTINF:-1 tvg-id="50791" tvg-name="Bb" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 19",Bb
+#EXTINF:-1 tvg-id="50791" tvg-name="Bb" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 20",Bb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=Kskaksk.m3u8
@@ -1911,11 +1919,11 @@ https://example.com/?id=pro4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=hitmake-cast.m3u8
-#EXTINF:-1 tvg-id="50763" tvg-name="FIXTV" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 20",FIXTV
+#EXTINF:-1 tvg-id="50763" tvg-name="FIXTV" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 21",FIXTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=fixtv.m3u8
-#EXTINF:-1 tvg-id="50762" tvg-name="toyhouse" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 20",toyhouse
+#EXTINF:-1 tvg-id="50762" tvg-name="toyhouse" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 21",toyhouse
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=toyhouse.m3u8
@@ -2007,11 +2015,11 @@ https://example.com/?id=playercinema-brendonlee.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=fanatikmaxyesilcam.m3u8
-#EXTINF:-1 tvg-id="50734" tvg-name="PlayerCinema BRUS LEE" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50734-69b85cb53cd28.png" group-title="Sayfa 21",PlayerCinema BRUS LEE
+#EXTINF:-1 tvg-id="50734" tvg-name="PlayerCinema BRUS LEE" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50734-69b85cb53cd28.png" group-title="Sayfa 22",PlayerCinema BRUS LEE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=playercinema-bruslee.m3u8
-#EXTINF:-1 tvg-id="50733" tvg-name="PlayerCinema JOHN WICK HD" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50733-69b85c35dad91.png" group-title="Sayfa 21",PlayerCinema JOHN WICK HD
+#EXTINF:-1 tvg-id="50733" tvg-name="PlayerCinema JOHN WICK HD" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50733-69b85c35dad91.png" group-title="Sayfa 22",PlayerCinema JOHN WICK HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=playercinema-johnwickhd.m3u8
@@ -2103,11 +2111,11 @@ https://example.com/?id=yansimadancetv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=nicktoons-premiumводская.m3u8
-#EXTINF:-1 tvg-id="50707" tvg-name="«Nickjr.premium Водская»" tvg-logo="https://img.catcast.tv/uploads/07032026/logos/50707-69ac01d39debe.png" group-title="Sayfa 22",«Nickjr.premium Водская»
+#EXTINF:-1 tvg-id="50707" tvg-name="«Nickjr.premium Водская»" tvg-logo="https://img.catcast.tv/uploads/07032026/logos/50707-69ac01d39debe.png" group-title="Sayfa 23",«Nickjr.premium Водская»
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=nickjrpremium-водская.m3u8
-#EXTINF:-1 tvg-id="50706" tvg-name="Телеканал ViJi Catcast" tvg-logo="https://img.catcast.tv/uploads/07032026/logos/50706-69ac008e49c77.png" group-title="Sayfa 22",Телеканал ViJi Catcast
+#EXTINF:-1 tvg-id="50706" tvg-name="Телеканал ViJi Catcast" tvg-logo="https://img.catcast.tv/uploads/07032026/logos/50706-69ac008e49c77.png" group-title="Sayfa 23",Телеканал ViJi Catcast
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=телеканал-vijicatcast.m3u8
@@ -2199,11 +2207,11 @@ https://example.com/?id=playercinemacehennemmelekleri.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=playercinema-alice3.m3u8
-#EXTINF:-1 tvg-id="50676" tvg-name="PlayerCinema ALICE 2" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50676-69a972e4d2b9a.png" group-title="Sayfa 23",PlayerCinema ALICE 2
+#EXTINF:-1 tvg-id="50676" tvg-name="PlayerCinema ALICE 2" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50676-69a972e4d2b9a.png" group-title="Sayfa 24",PlayerCinema ALICE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=playercinema-alice2.m3u8
-#EXTINF:-1 tvg-id="50675" tvg-name="PlayerCinema ALICE 1" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50675-69a9727ef09a6.png" group-title="Sayfa 23",PlayerCinema ALICE 1
+#EXTINF:-1 tvg-id="50675" tvg-name="PlayerCinema ALICE 1" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50675-69a9727ef09a6.png" group-title="Sayfa 24",PlayerCinema ALICE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=playercinema-alice1.m3u8
@@ -2295,11 +2303,11 @@ https://example.com/?id=jetix-россия.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=домашний-черчельскартемия.m3u8
-#EXTINF:-1 tvg-id="50639" tvg-name="Disney Junior Catcast" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 24",Disney Junior Catcast
+#EXTINF:-1 tvg-id="50639" tvg-name="Disney Junior Catcast" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 25",Disney Junior Catcast
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=disney-juniorcatcast.m3u8
-#EXTINF:-1 tvg-id="50638" tvg-name="Player VETEN OĞLU" tvg-logo="https://img.catcast.tv/uploads/27022026/logos/50638-69a1b05bbd70e.png" group-title="Sayfa 24",Player VETEN OĞLU
+#EXTINF:-1 tvg-id="50638" tvg-name="Player VETEN OĞLU" tvg-logo="https://img.catcast.tv/uploads/27022026/logos/50638-69a1b05bbd70e.png" group-title="Sayfa 25",Player VETEN OĞLU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=player-vetenolu.m3u8
@@ -2391,11 +2399,11 @@ https://example.com/?id=Регион_Запад.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=kotakbasima.m3u8
-#EXTINF:-1 tvg-id="50593" tvg-name="FunTun" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 25",FunTun
+#EXTINF:-1 tvg-id="50593" tvg-name="FunTun" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 26",FunTun
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=funtun.m3u8
-#EXTINF:-1 tvg-id="50592" tvg-name="Drun tv" tvg-logo="https://img.catcast.tv/uploads/21022026/logos/50592-6999bbd57992b.jpg" group-title="Sayfa 25",Drun tv
+#EXTINF:-1 tvg-id="50592" tvg-name="Drun tv" tvg-logo="https://img.catcast.tv/uploads/21022026/logos/50592-6999bbd57992b.jpg" group-title="Sayfa 26",Drun tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=drun-tv.m3u8
@@ -2487,11 +2495,11 @@ https://example.com/?id=playerkomedi-kemalsunal 3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=playerczgflm-maaveay.m3u8
-#EXTINF:-1 tvg-id="50559" tvg-name="KinoGo" tvg-logo="https://img.catcast.tv/uploads/17022026/logos/50559-69941db97500a.jpg" group-title="Sayfa 26",KinoGo
+#EXTINF:-1 tvg-id="50559" tvg-name="KinoGo" tvg-logo="https://img.catcast.tv/uploads/17022026/logos/50559-69941db97500a.jpg" group-title="Sayfa 27",KinoGo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=kinogo.m3u8
-#EXTINF:-1 tvg-id="50557" tvg-name="Бум бум" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 26",Бум бум
+#EXTINF:-1 tvg-id="50557" tvg-name="Бум бум" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 27",Бум бум
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=бум-бум.m3u8
@@ -2583,11 +2591,11 @@ https://example.com/?id=playerkanal.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=jetix-ru.m3u8
-#EXTINF:-1 tvg-id="50516" tvg-name="QTV" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 27",QTV
+#EXTINF:-1 tvg-id="50516" tvg-name="QTV" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 28",QTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=qtv_legend.m3u8
-#EXTINF:-1 tvg-id="50515" tvg-name="PlayerKomedi Bu Şeherde" tvg-logo="https://img.catcast.tv/uploads/14022026/logos/50515-698f8bc85844b.png" group-title="Sayfa 27",PlayerKomedi Bu Şeherde
+#EXTINF:-1 tvg-id="50515" tvg-name="PlayerKomedi Bu Şeherde" tvg-logo="https://img.catcast.tv/uploads/14022026/logos/50515-698f8bc85844b.png" group-title="Sayfa 28",PlayerKomedi Bu Şeherde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=playerkomedi-bueherde.m3u8
@@ -2679,11 +2687,11 @@ https://example.com/?id=dalive-1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=нло.m3u8
-#EXTINF:-1 tvg-id="50477" tvg-name="9 Канал CatCast" tvg-logo="https://img.catcast.tv/uploads/12022026/logos/50477-698e12673a51e.png" group-title="Sayfa 28",9 Канал CatCast
+#EXTINF:-1 tvg-id="50477" tvg-name="9 Канал CatCast" tvg-logo="https://img.catcast.tv/uploads/12022026/logos/50477-698e12673a51e.png" group-title="Sayfa 29",9 Канал CatCast
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=9channel-catcast.m3u8
-#EXTINF:-1 tvg-id="50475" tvg-name="Мультяшки" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 28",Мультяшки
+#EXTINF:-1 tvg-id="50475" tvg-name="Мультяшки" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 29",Мультяшки
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=мультяшки-.m3u8
@@ -2775,11 +2783,11 @@ https://example.com/?id=playertest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=0x0-738.m3u8
-#EXTINF:-1 tvg-id="50430" tvg-name="KBC-КиноБиблия" tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50430-69863c1fdd9d0.png" group-title="Sayfa 29",KBC-КиноБиблия
+#EXTINF:-1 tvg-id="50430" tvg-name="KBC-КиноБиблия" tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50430-69863c1fdd9d0.png" group-title="Sayfa 30",KBC-КиноБиблия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=кинобиблия.m3u8
-#EXTINF:-1 tvg-id="50429" tvg-name="Mii" tvg-logo="https://img.catcast.tv/uploads/01022026/logos/50429-697f8d6672a15.png" group-title="Sayfa 29",Mii
+#EXTINF:-1 tvg-id="50429" tvg-name="Mii" tvg-logo="https://img.catcast.tv/uploads/01022026/logos/50429-697f8d6672a15.png" group-title="Sayfa 30",Mii
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=3hgqwfghfhg.m3u8
@@ -2871,11 +2879,11 @@ https://example.com/?id=denistv2026.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=ыва.m3u8
-#EXTINF:-1 tvg-id="50399" tvg-name="Телеканал ТРИ" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 30",Телеканал ТРИ
+#EXTINF:-1 tvg-id="50399" tvg-name="Телеканал ТРИ" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 31",Телеканал ТРИ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=телеканал-три.m3u8
-#EXTINF:-1 tvg-id="50398" tvg-name="1 КАНАЛ ВАЙС-СІТІ" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 30",1 КАНАЛ ВАЙС-СІТІ
+#EXTINF:-1 tvg-id="50398" tvg-name="1 КАНАЛ ВАЙС-СІТІ" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 31",1 КАНАЛ ВАЙС-СІТІ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=1vicecity.m3u8
@@ -2967,11 +2975,11 @@ https://example.com/?id=playerkomedi-azfilm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=playercinema-aze_dublyaj-1.m3u8
-#EXTINF:-1 tvg-id="50371" tvg-name="PV+" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 31",PV+
+#EXTINF:-1 tvg-id="50371" tvg-name="PV+" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 32",PV+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=test1-tv.m3u8
-#EXTINF:-1 tvg-id="50370" tvg-name="PlayerKomedi Azerbaycan Film" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50370-698b4b5495325.png" group-title="Sayfa 31",PlayerKomedi Azerbaycan Film
+#EXTINF:-1 tvg-id="50370" tvg-name="PlayerKomedi Azerbaycan Film" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50370-698b4b5495325.png" group-title="Sayfa 32",PlayerKomedi Azerbaycan Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=playercinema-azerbaycanfilm.m3u8
@@ -3063,11 +3071,11 @@ https://example.com/?id=playermusic.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=playercınema.m3u8
-#EXTINF:-1 tvg-id="50340" tvg-name="QTV" tvg-logo="https://img.catcast.tv/uploads/21012026/logos/50340-6970fc5dc0834.png" group-title="Sayfa 32",QTV
+#EXTINF:-1 tvg-id="50340" tvg-name="QTV" tvg-logo="https://img.catcast.tv/uploads/21012026/logos/50340-6970fc5dc0834.png" group-title="Sayfa 33",QTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=qtvukrainechannel.m3u8
-#EXTINF:-1 tvg-id="50339" tvg-name="Облим (new!)" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 32",Облим (new!)
+#EXTINF:-1 tvg-id="50339" tvg-name="Облим (new!)" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 33",Облим (new!)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=облим-new.m3u8
@@ -3159,11 +3167,11 @@ https://example.com/?id=ser-spartacus.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=denistv.m3u8
-#EXTINF:-1 tvg-id="50309" tvg-name="MTV Live онлайн" tvg-logo="https://img.catcast.tv/uploads/16012026/logos/50309-696a472c045f3.png" group-title="Sayfa 33",MTV Live онлайн
+#EXTINF:-1 tvg-id="50309" tvg-name="MTV Live онлайн" tvg-logo="https://img.catcast.tv/uploads/16012026/logos/50309-696a472c045f3.png" group-title="Sayfa 34",MTV Live онлайн
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=mtv-liveонлайн.m3u8
-#EXTINF:-1 tvg-id="50308" tvg-name="Mz tv" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 33",Mz tv
+#EXTINF:-1 tvg-id="50308" tvg-name="Mz tv" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 34",Mz tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=mz-tv.m3u8
@@ -3255,11 +3263,11 @@ https://example.com/?id=sbs-sport.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=bayzan-muzk.m3u8
-#EXTINF:-1 tvg-id="50258" tvg-name="MAHNİ TV" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 34",MAHNİ TV
+#EXTINF:-1 tvg-id="50258" tvg-name="MAHNİ TV" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 35",MAHNİ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=mahn-tv.m3u8
-#EXTINF:-1 tvg-id="50257" tvg-name="HİND AZERİ" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 34",HİND AZERİ
+#EXTINF:-1 tvg-id="50257" tvg-name="HİND AZERİ" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 35",HİND AZERİ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=hnd-azer.m3u8
@@ -3351,11 +3359,11 @@ https://example.com/?id=httpsiptv-orggithubioiptvlangu.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=rtl-2.m3u8
-#EXTINF:-1 tvg-id="50212" tvg-name="1 Канал-Владимир" tvg-logo="https://img.catcast.tv/uploads/10012026/logos/50212-6962be04e7cac.png" group-title="Sayfa 35",1 Канал-Владимир
+#EXTINF:-1 tvg-id="50212" tvg-name="1 Канал-Владимир" tvg-logo="https://img.catcast.tv/uploads/10012026/logos/50212-6962be04e7cac.png" group-title="Sayfa 36",1 Канал-Владимир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=1-канал-владимир.m3u8
-#EXTINF:-1 tvg-id="50210" tvg-name="Meyxana Tv" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 35",Meyxana Tv
+#EXTINF:-1 tvg-id="50210" tvg-name="Meyxana Tv" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 36",Meyxana Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=meyxana-tv.m3u8
@@ -3447,11 +3455,11 @@ https://example.com/?id=by_kerimoff_solo_konsert.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=kinomobila.m3u8
-#EXTINF:-1 tvg-id="50176" tvg-name="Фильмы 1 International" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 36",Фильмы 1 International
+#EXTINF:-1 tvg-id="50176" tvg-name="Фильмы 1 International" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 37",Фильмы 1 International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=movies-1.m3u8
-#EXTINF:-1 tvg-id="50175" tvg-name="СТС2 (Волгоград)" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 36",СТС2 (Волгоград)
+#EXTINF:-1 tvg-id="50175" tvg-name="СТС2 (Волгоград)" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 37",СТС2 (Волгоград)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=CTC2Volgograd.m3u8
@@ -3543,11 +3551,11 @@ https://example.com/?id=radio1-hu.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=hit-fmtricolor.m3u8
-#EXTINF:-1 tvg-id="50151" tvg-name="by-kerimoff-yesilcamtv" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 37",by-kerimoff-yesilcamtv
+#EXTINF:-1 tvg-id="50151" tvg-name="by-kerimoff-yesilcamtv" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 38",by-kerimoff-yesilcamtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=by-kerimoff-yesilcamtv.m3u8
-#EXTINF:-1 tvg-id="50150" tvg-name="Риван" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 37",Риван
+#EXTINF:-1 tvg-id="50150" tvg-name="Риван" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 38",Риван
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=риван.m3u8
@@ -3639,11 +3647,11 @@ https://example.com/?id=vice city 4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=RomanceUA.m3u8
-#EXTINF:-1 tvg-id="50122" tvg-name="VICE CITY 1" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 38",VICE CITY 1
+#EXTINF:-1 tvg-id="50122" tvg-name="VICE CITY 1" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 39",VICE CITY 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=vice city 1.m3u8
-#EXTINF:-1 tvg-id="50121" tvg-name="TVR 6" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 38",TVR 6
+#EXTINF:-1 tvg-id="50121" tvg-name="TVR 6" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 39",TVR 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=tvr-6.m3u8
@@ -3735,11 +3743,11 @@ https://example.com/?id=minefck-0-24-hu.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=fan-made-ninjago-0-24-hu.m3u8
-#EXTINF:-1 tvg-id="50091" tvg-name="NovaVerse TV" tvg-logo="https://img.catcast.tv/uploads/16122025/logos/50091-69419dc07809c.png" group-title="Sayfa 39",NovaVerse TV
+#EXTINF:-1 tvg-id="50091" tvg-name="NovaVerse TV" tvg-logo="https://img.catcast.tv/uploads/16122025/logos/50091-69419dc07809c.png" group-title="Sayfa 40",NovaVerse TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=novaverse-tv.m3u8
-#EXTINF:-1 tvg-id="50090" tvg-name="Карусельдь" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 39",Карусельдь
+#EXTINF:-1 tvg-id="50090" tvg-name="Карусельдь" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 40",Карусельдь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=карусельдь.m3u8
@@ -3831,11 +3839,11 @@ https://example.com/?id=tvmm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=tvtest.m3u8
-#EXTINF:-1 tvg-id="50059" tvg-name="OpenRadio" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 40",OpenRadio
+#EXTINF:-1 tvg-id="50059" tvg-name="OpenRadio" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 41",OpenRadio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=openradio.m3u8
-#EXTINF:-1 tvg-id="50058" tvg-name="РАДiO ЛЮКС" tvg-logo="https://img.catcast.tv/uploads/05122025/logos/50058-6932e2bfbb645.jpg" group-title="Sayfa 40",РАДiO ЛЮКС
+#EXTINF:-1 tvg-id="50058" tvg-name="РАДiO ЛЮКС" tvg-logo="https://img.catcast.tv/uploads/05122025/logos/50058-6932e2bfbb645.jpg" group-title="Sayfa 41",РАДiO ЛЮКС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=rika-fm.m3u8
@@ -3927,11 +3935,11 @@ https://example.com/?id=cat-fm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=cnt_vicecity.m3u8
-#EXTINF:-1 tvg-id="50028" tvg-name="Ani CatCast" tvg-logo="https://img.catcast.tv/uploads/29112025/logos/50028-692b1e8c749ab.jpg" group-title="Sayfa 41",Ani CatCast
+#EXTINF:-1 tvg-id="50028" tvg-name="Ani CatCast" tvg-logo="https://img.catcast.tv/uploads/29112025/logos/50028-692b1e8c749ab.jpg" group-title="Sayfa 42",Ani CatCast
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=телеканал-ani.m3u8
-#EXTINF:-1 tvg-id="50027" tvg-name="KinoMobile Classic Comedy" tvg-logo="https://img.catcast.tv/uploads/30112025/logos/50027-692be19fe646e.jpg" group-title="Sayfa 41",KinoMobile Classic Comedy
+#EXTINF:-1 tvg-id="50027" tvg-name="KinoMobile Classic Comedy" tvg-logo="https://img.catcast.tv/uploads/30112025/logos/50027-692be19fe646e.jpg" group-title="Sayfa 42",KinoMobile Classic Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=kinomobile-classiccomedy.m3u8
@@ -4023,11 +4031,11 @@ https://example.com/?id=oldhittv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=беларусь-2.m3u8
-#EXTINF:-1 tvg-id="49997" tvg-name="Беларусь 1 CatCast" tvg-logo="https://img.catcast.tv/uploads/22112025/logos/49997-6921eab947a9b.png" group-title="Sayfa 42",Беларусь 1 CatCast
+#EXTINF:-1 tvg-id="49997" tvg-name="Беларусь 1 CatCast" tvg-logo="https://img.catcast.tv/uploads/22112025/logos/49997-6921eab947a9b.png" group-title="Sayfa 43",Беларусь 1 CatCast
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=беларусь-1.m3u8
-#EXTINF:-1 tvg-id="49996" tvg-name="FROM Tv" tvg-logo="https://img.catcast.tv/uploads/22112025/logos/49996-6921d3be140d4.png" group-title="Sayfa 42",FROM Tv
+#EXTINF:-1 tvg-id="49996" tvg-name="FROM Tv" tvg-logo="https://img.catcast.tv/uploads/22112025/logos/49996-6921d3be140d4.png" group-title="Sayfa 43",FROM Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=from-tv.m3u8
@@ -4119,11 +4127,11 @@ https://example.com/?id=бибигонтв.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=likerome.m3u8
-#EXTINF:-1 tvg-id="49969" tvg-name="ICTV" tvg-logo="https://img.catcast.tv/uploads/17112025/logos/49969-691b4b6a09511.webp" group-title="Sayfa 43",ICTV
+#EXTINF:-1 tvg-id="49969" tvg-name="ICTV" tvg-logo="https://img.catcast.tv/uploads/17112025/logos/49969-691b4b6a09511.webp" group-title="Sayfa 44",ICTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=ictv-20.m3u8
-#EXTINF:-1 tvg-id="49968" tvg-name="М1" tvg-logo="https://img.catcast.tv/uploads/17112025/logos/49968-691b3d942ba85.png" group-title="Sayfa 43",М1
+#EXTINF:-1 tvg-id="49968" tvg-name="М1" tvg-logo="https://img.catcast.tv/uploads/17112025/logos/49968-691b3d942ba85.png" group-title="Sayfa 44",М1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=м120.m3u8
@@ -4215,11 +4223,11 @@ https://example.com/?id=нло-tv-ua.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=m18-stream.m3u8
-#EXTINF:-1 tvg-id="49935" tvg-name="csnd-a-frgatson" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 44",csnd-a-frgatson
+#EXTINF:-1 tvg-id="49935" tvg-name="csnd-a-frgatson" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 45",csnd-a-frgatson
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=csnd-a-frgatson.m3u8
-#EXTINF:-1 tvg-id="49934" tvg-name="Листочек" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 44",Листочек
+#EXTINF:-1 tvg-id="49934" tvg-name="Листочек" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 45",Листочек
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=листочек.m3u8
@@ -4311,11 +4319,11 @@ https://example.com/?id=serxan.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=пустой-канал.m3u8
-#EXTINF:-1 tvg-id="49874" tvg-name="Media Markt Реклама Старое канал Хрю Хрю Хрю Хрю" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 45",Media Markt Реклама Старое канал Хрю Хрю Хрю Хрю
+#EXTINF:-1 tvg-id="49874" tvg-name="Media Markt Реклама Старое канал Хрю Хрю Хрю Хрю" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 46",Media Markt Реклама Старое канал Хрю Хрю Хрю Хрю
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=media-marktрекламастароеканалх.m3u8
-#EXTINF:-1 tvg-id="49872" tvg-name="FLIX TV" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 45",FLIX TV
+#EXTINF:-1 tvg-id="49872" tvg-name="FLIX TV" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 46",FLIX TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=flix-tv.m3u8
@@ -4407,11 +4415,11 @@ https://example.com/?id=kizugtv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=home-andgarden.m3u8
-#EXTINF:-1 tvg-id="49827" tvg-name="DOCS0212225" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 46",DOCS0212225
+#EXTINF:-1 tvg-id="49827" tvg-name="DOCS0212225" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 47",DOCS0212225
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=docs0212225.m3u8
-#EXTINF:-1 tvg-id="49826" tvg-name="CARTOON NETWORK VIP" tvg-logo="https://img.catcast.tv/uploads/02112025/logos/49826-69072bc44b409.png" group-title="Sayfa 46",CARTOON NETWORK VIP
+#EXTINF:-1 tvg-id="49826" tvg-name="CARTOON NETWORK VIP" tvg-logo="https://img.catcast.tv/uploads/02112025/logos/49826-69072bc44b409.png" group-title="Sayfa 47",CARTOON NETWORK VIP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=cartoon-networkvip.m3u8
@@ -4503,11 +4511,11 @@ https://example.com/?id=бравл-старсисабвейсервесфана�
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=street-2x2.m3u8
-#EXTINF:-1 tvg-id="49797" tvg-name="Утро HD" tvg-logo="https://img.catcast.tv/uploads/29102025/logos/49797-6901c5e4c8f17.png" group-title="Sayfa 47",Утро HD
+#EXTINF:-1 tvg-id="49797" tvg-name="Утро HD" tvg-logo="https://img.catcast.tv/uploads/29102025/logos/49797-6901c5e4c8f17.png" group-title="Sayfa 48",Утро HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=tv-utro.m3u8
-#EXTINF:-1 tvg-id="49796" tvg-name="ПЕК ТВ" tvg-logo="https://img.catcast.tv/uploads/29102025/logos/49796-690189e4913a5.jpg" group-title="Sayfa 47",ПЕК ТВ
+#EXTINF:-1 tvg-id="49796" tvg-name="ПЕК ТВ" tvg-logo="https://img.catcast.tv/uploads/29102025/logos/49796-690189e4913a5.jpg" group-title="Sayfa 48",ПЕК ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=PEKTV.m3u8
@@ -4599,11 +4607,11 @@ https://example.com/?id=moo.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=mfn.m3u8
-#EXTINF:-1 tvg-id="49763" tvg-name="Street-KRS" tvg-logo="https://img.catcast.tv/uploads/29102025/logos/49763-6901b4717deef.jpg" group-title="Sayfa 48",Street-KRS
+#EXTINF:-1 tvg-id="49763" tvg-name="Street-KRS" tvg-logo="https://img.catcast.tv/uploads/29102025/logos/49763-6901b4717deef.jpg" group-title="Sayfa 49",Street-KRS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=street-krs.m3u8
-#EXTINF:-1 tvg-id="49762" tvg-name="MCM-1" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 48",MCM-1
+#EXTINF:-1 tvg-id="49762" tvg-name="MCM-1" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 49",MCM-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=mcm-1.m3u8
@@ -4695,11 +4703,11 @@ https://example.com/?id=первый-каналадрианcatcast.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=первый-каналалиса.m3u8
-#EXTINF:-1 tvg-id="49733" tvg-name="Культура Старый" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 49",Культура Старый
+#EXTINF:-1 tvg-id="49733" tvg-name="Культура Старый" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 50",Культура Старый
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=культура-старый.m3u8
-#EXTINF:-1 tvg-id="49732" tvg-name="Россия 1 Старый" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 49",Россия 1 Старый
+#EXTINF:-1 tvg-id="49732" tvg-name="Россия 1 Старый" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 50",Россия 1 Старый
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=россия-1старый.m3u8
@@ -4791,14 +4799,14 @@ https://example.com/?id=tvboom.vip.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=gapp.m3u8
-#EXTINF:-1 tvg-id="49699" tvg-name="Телеканал ТНТ Плюс" tvg-logo="https://img.catcast.tv/uploads/24062026/logos/49699-6a3c1eb1037d3.jpg" group-title="Sayfa 50",Телеканал ТНТ Плюс
+#EXTINF:-1 tvg-id="33796" tvg-name="DantesFilm" tvg-logo="https://img.catcast.tv/logos/016316d8414530567ece56f133d4c365.png" group-title="Sayfa 480",DantesFilm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
-https://example.com/?id=телеканал-тнтплюс.m3u8
-#EXTINF:-1 tvg-id="49697" tvg-name="Телеканал Art.tv CatCast" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 50",Телеканал Art.tv CatCast
+https://example.com/?id=dantesfilm.m3u8
+#EXTINF:-1 tvg-id="33795" tvg-name="RADIOKIDSFM" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 480",RADIOKIDSFM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
-https://example.com/?id=arttv.m3u8
+https://example.com/?id=radiokidsfm.m3u8
 #EXTINF:-1 tvg-id="33794" tvg-name="FROLTV" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 480",FROLTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
@@ -4887,11 +4895,11 @@ https://example.com/?id=1glava.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=goodnet.m3u8
-#EXTINF:-1 tvg-id="33766" tvg-name="Russian Game Chanell" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 480",Russian Game Chanell
+#EXTINF:-1 tvg-id="33766" tvg-name="Russian Game Chanell" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 481",Russian Game Chanell
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=russian_game_chanell.m3u8
-#EXTINF:-1 tvg-id="33765" tvg-name="MezgTV" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 480",MezgTV
+#EXTINF:-1 tvg-id="33765" tvg-name="MezgTV" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 481",MezgTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=mezgtv.m3u8
@@ -4983,11 +4991,3 @@ https://example.com/?id=ntvs1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://example.com/?id=art_teleset.m3u8
-#EXTINF:-1 tvg-id="33733" tvg-name="НТВТ" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="Sayfa 481",НТВТ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referer=https://catcast.tv/
-https://example.com/?id=ntvt.m3u8
-#EXTINF:-1 tvg-id="33732" tvg-name="Winter TV" tvg-logo="https://img.catcast.tv/logos/adb6c21992822ca293447b8a519f25ce.png" group-title="Sayfa 481",Winter TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referer=https://catcast.tv/
-https://example.com/?id=winter_tv_.m3u8
