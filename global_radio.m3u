@@ -401,6 +401,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://8923.brasilstream.com.br/stream
 
+#EXTINF:-1 tvg-id="Brazil_17" tvg-name="Smooth Jazz Lounge" tvg-logo="https://www.vip-radios.fm/favicon.ico" group-title="Brazil",Smooth Jazz Lounge
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+https://radio4.vip-radios.fm:18060/stream-128kmp3-SmoothJazzLounge
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",Bulgaria
 #EXTGRP:Bulgaria
 
@@ -750,13 +754,13 @@ https://qurango.net/radio/tarateel
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://qurango.net/radio/yasser_aldosari
 
-#EXTINF:-1 tvg-id="Egypt_10" tvg-name="تكبيرات العيد" tvg-logo="" group-title="Egypt",تكبيرات العيد
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://live.mp3quran.net:9728/
-
-#EXTINF:-1 tvg-id="Egypt_11" tvg-name="القران الكريم من القاهره" tvg-logo="" group-title="Egypt",القران الكريم من القاهره
+#EXTINF:-1 tvg-id="Egypt_10" tvg-name="القران الكريم من القاهره" tvg-logo="" group-title="Egypt",القران الكريم من القاهره
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://n0c.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&amp;rj-tok=AAABdI5Qnd0AEmvTTG5DVtU31A&amp;autoplay=1%22%20type=%22audio/mpeg
+
+#EXTINF:-1 tvg-id="Egypt_11" tvg-name="تكبيرات العيد" tvg-logo="" group-title="Egypt",تكبيرات العيد
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://live.mp3quran.net:9728/
 
 #EXTINF:-1 tvg-id="Egypt_12" tvg-name="Abdulrasheed Soufi" tvg-logo="" group-title="Egypt",Abdulrasheed Soufi
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1596,13 +1600,13 @@ https://stream.zenolive.com/2vghnwshsqzuv.aac
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="India_34" tvg-name="radioBollyFM" tvg-logo="" group-title="India",radioBollyFM
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://stream.zeno.fm/zu59ykebs2zuv
-
-#EXTINF:-1 tvg-id="India_35" tvg-name="Red FM 93.5" tvg-logo="https://radiobarfi.com/wp-content/uploads/2024/04/Red-FM-93.5-Live-Online.png.webp" group-title="India",Red FM 93.5
+#EXTINF:-1 tvg-id="India_34" tvg-name="Red FM 93.5" tvg-logo="https://radiobarfi.com/wp-content/uploads/2024/04/Red-FM-93.5-Live-Online.png.webp" group-title="India",Red FM 93.5
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://stream-174.zeno.fm/q97eczydqrhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxOTdlY3p5ZHFyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InRhOHAxeTRDVDdHenYtN2NoeFQxRmciLCJpYXQiOjE3NDIwNDA3NDEsImV4cCI6MTc0MjA0MDgwMX0.MkjhfjpDcWKnjIHhgkq3SGxg9gH8U901CrsfPZ42PGM
+
+#EXTINF:-1 tvg-id="India_35" tvg-name="radioBollyFM" tvg-logo="" group-title="India",radioBollyFM
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://stream.zeno.fm/zu59ykebs2zuv
 
 #EXTINF:-1 tvg-id="India_36" tvg-name="RADIO MARIA INDIA" tvg-logo="" group-title="India",RADIO MARIA INDIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1764,13 +1768,13 @@ https://radio.iraninternational.app/iintl_c
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://n13.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABeB5OHJQA07FIiDdZAZNHWw
 
-#EXTINF:-1 tvg-id="Islamic Republic Of Iran_9" tvg-name="Radio Mojdeh" tvg-logo="http://www.radiomojdeh.com/favicon.ico" group-title="Islamic Republic Of Iran",Radio Mojdeh
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://ic2326.c1261.fast-serv.com/rm128
-
-#EXTINF:-1 tvg-id="Islamic Republic Of Iran_10" tvg-name="Iran International (HTTPS stream)" tvg-logo="https://www.iranintl.com/favicon.ico" group-title="Islamic Republic Of Iran",Iran International (HTTPS stream)
+#EXTINF:-1 tvg-id="Islamic Republic Of Iran_9" tvg-name="Iran International (HTTPS stream)" tvg-logo="https://www.iranintl.com/favicon.ico" group-title="Islamic Republic Of Iran",Iran International (HTTPS stream)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://stream.radiojar.com/iintl_c
+
+#EXTINF:-1 tvg-id="Islamic Republic Of Iran_10" tvg-name="Radio Mojdeh" tvg-logo="http://www.radiomojdeh.com/favicon.ico" group-title="Islamic Republic Of Iran",Radio Mojdeh
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://ic2326.c1261.fast-serv.com/rm128
 
 #EXTINF:-1 tvg-id="Islamic Republic Of Iran_11" tvg-name="Radio Mojdeh - Iranian Farsi/Persian Christian music and talk" tvg-logo="https://radiomojdeh.com/favicon.ico" group-title="Islamic Republic Of Iran",Radio Mojdeh - Iranian Farsi/Persian Christian music and talk
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1973,10 +1977,6 @@ http://icestreaming.rai.it/6.mp3
 #EXTINF:-1 tvg-id="Italy_37" tvg-name="Italia Dance Music" tvg-logo="http://www.italiadancemusic.com/it/themes/corporate_lite/favicon.ico" group-title="Italy",Italia Dance Music
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://sr2.inmystream.info:8032/listen.m3u
-
-#EXTINF:-1 tvg-id="Italy_38" tvg-name="Rai Radio Classica Filodiffusione" tvg-logo="" group-title="Italy",Rai Radio Classica Filodiffusione
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://icestreaming.rai.it/5.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jamaica",Jamaica
 #EXTGRP:Jamaica
@@ -3091,13 +3091,13 @@ http://listen.rusongs.ru/ru-mp3-128
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://pub0302.101.ru:8000/stream/pro/aac/64/144?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjUuMTguMjQ4Ljk4IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6ODIuMCkgR2Vja29cLzIwMTAwMTAxIEZpcmVmb3hcLzgyLjAiLCJ1aWRfY2hhbm5lbCI6IjE0NCIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MDU5NjQ1MTZ9.Ln1wEJ8cHHzK_Ea6Zr8J8acdny0R9ShZ_KUKVf6TmQA
 
-#EXTINF:-1 tvg-id="The Russian Federation_6" tvg-name="DFM RUSSIAN DANCE" tvg-logo="https://dfm.ru/uploads/favicon.ico" group-title="The Russian Federation",DFM RUSSIAN DANCE
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274
-
-#EXTINF:-1 tvg-id="The Russian Federation_7" tvg-name="Ретро FM" tvg-logo="" group-title="The Russian Federation",Ретро FM
+#EXTINF:-1 tvg-id="The Russian Federation_6" tvg-name="Ретро FM" tvg-logo="" group-title="The Russian Federation",Ретро FM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://retroserver.streamr.ru:8043/retro256.mp3
+
+#EXTINF:-1 tvg-id="The Russian Federation_7" tvg-name="DFM RUSSIAN DANCE" tvg-logo="https://dfm.ru/uploads/favicon.ico" group-title="The Russian Federation",DFM RUSSIAN DANCE
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274
 
 #EXTINF:-1 tvg-id="The Russian Federation_8" tvg-name="Дорожное радио" tvg-logo="https://dorognoe.ru/assets/default/i/fav_114x114.png" group-title="The Russian Federation",Дорожное радио
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -3663,13 +3663,13 @@ http://streams.echoesofbluemars.org:8000/cryosleep
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://somafm.com/u80s.m3u
 
-#EXTINF:-1 tvg-id="The United States Of America_33" tvg-name="Infowars" tvg-logo="" group-title="The United States Of America",Infowars
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://stream-mp3.infowars.com/
-
-#EXTINF:-1 tvg-id="The United States Of America_34" tvg-name="LOVE RADIO Only Love Songs 70s80s90s - www.love.radio" tvg-logo="" group-title="The United States Of America",LOVE RADIO Only Love Songs 70s80s90s - www.love.radio
+#EXTINF:-1 tvg-id="The United States Of America_33" tvg-name="LOVE RADIO Only Love Songs 70s80s90s - www.love.radio" tvg-logo="" group-title="The United States Of America",LOVE RADIO Only Love Songs 70s80s90s - www.love.radio
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://shoutcast3.streamingmedia.it:3162/
+
+#EXTINF:-1 tvg-id="The United States Of America_34" tvg-name="Infowars" tvg-logo="" group-title="The United States Of America",Infowars
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://stream-mp3.infowars.com/
 
 #EXTINF:-1 tvg-id="The United States Of America_35" tvg-name="The Big 80s Station" tvg-logo="" group-title="The United States Of America",The Big 80s Station
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
